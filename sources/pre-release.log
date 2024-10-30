@@ -1,0 +1,2716 @@
+user:Joey Parrish
+1405623410
+user:Joey Parrish
+1405638950
+:000000 100644 00000000... 2054ae07... A	assets/bear-av-enc.mp4
+:000000 100644 00000000... d950cef4... A	assets/poster.png
+:000000 100644 00000000... dd2b68e8... A	assets/test_subs.vtt
+:000000 100644 00000000... 8874c5e5... A	index.html
+:000000 100644 00000000... bd0cec55... A	lib/license_request.js
+:000000 100644 00000000... bae0fe28... A	lib/player.js
+:000000 100644 00000000... 4633f23b... A	lib/util.js
+:000000 100644 00000000... 8b52db8d... A	main.js
+:000000 100644 00000000... d9ef94b8... A	test_license.json
+:000000 100644 00000000... 6e71f5cf... A	util/generate_fake_license.py
+
+user:Joey Parrish
+1405978279
+:100644 100644 bae0fe28... ba31dca7... M	lib/player.js
+
+user:Joey Parrish
+1405978368
+:100644 100644 8874c5e5... cc5d2006... M	index.html
+
+user:Timothy Drews
+1406136609
+:000000 100644 00000000... aff8ed47... A	jasmine/MIT.LICENSE
+:000000 100644 00000000... ec8baa0a... A	jasmine/lib/jasmine-2.0.1/boot.js
+:000000 100644 00000000... c54f72da... A	jasmine/lib/jasmine-2.0.1/console.js
+:000000 100644 00000000... 9d959032... A	jasmine/lib/jasmine-2.0.1/jasmine-html.js
+:000000 100644 00000000... c54ff305... A	jasmine/lib/jasmine-2.0.1/jasmine.css
+:000000 100644 00000000... c943db1a... A	jasmine/lib/jasmine-2.0.1/jasmine.js
+:000000 100644 00000000... 3b84583b... A	jasmine/lib/jasmine-2.0.1/jasmine_favicon.png
+:000000 100644 00000000... 7cc57b5a... A	jasmine/lib/jasmine-ajax-trunk/mock-ajax.js
+:000000 100644 00000000... 8d222be4... A	spec/license_request_spec.js
+:000000 100644 00000000... 3c15bf79... A	spec/util.js
+:000000 100644 00000000... d34860c8... A	spec_runner.html
+
+user:Joey Parrish
+1406660191
+:100644 100644 ba31dca7... 05559111... M	lib/player.js
+
+user:Timothy Drews
+1406758617
+:000000 100644 00000000... 8ac8c552... A	index.css
+:100644 100644 cc5d2006... 795e812d... M	index.html
+:000000 100644 00000000... 88d9bdb3... A	lib/event_manager.js
+:100644 100644 bd0cec55... 49299231... M	lib/license_request.js
+:100644 100644 05559111... efa65c42... M	lib/player.js
+:100644 100644 4633f23b... c28f540a... M	lib/util.js
+:100644 100644 8b52db8d... b3edfcd9... M	main.js
+:000000 100644 00000000... 0b4aff00... A	spec/event_manager_spec.js
+:000000 100644 00000000... 0ec33234... A	spec/fake_event_target.js
+:100644 100644 8d222be4... 8c554763... M	spec/license_request_spec.js
+:100644 100644 3c15bf79... 7c70e247... M	spec/util.js
+:100644 100644 d34860c8... db8352f6... M	spec_runner.html
+
+user:Timothy Drews
+1407262703
+:100644 100644 795e812d... 994357f2... M	index.html
+:100644 100644 88d9bdb3... 662f1657... M	lib/event_manager.js
+:100644 100644 49299231... 3eb402a3... M	lib/license_request.js
+:000000 100644 00000000... 0b7ed117... A	lib/mpd.js
+:000000 100644 00000000... f6c1e218... A	lib/mpd_request.js
+:100644 100644 efa65c42... d733e1a3... M	lib/player.js
+:100644 100644 b3edfcd9... 4d4d9b14... M	main.js
+:100644 100644 0b4aff00... 7687c7e2... M	spec/event_manager_spec.js
+:100644 100644 8c554763... 052e0725... M	spec/license_request_spec.js
+:000000 100644 00000000... 982beb8b... A	spec/mpd_spec.js
+:100644 100644 7c70e247... 6edc1992... M	spec/util.js
+:100644 100644 db8352f6... 6fbd01d8... M	spec_runner.html
+
+user:Timothy Drews
+1407447717
+:100644 100644 8ac8c552... 06503e8e... M	index.css
+:100644 100644 994357f2... ff75df9a... M	index.html
+:100644 100644 0b7ed117... ead2a984... M	lib/mpd.js
+:100644 100644 d733e1a3... 5272e691... M	lib/player.js
+:100644 100644 4d4d9b14... d20587f9... M	main.js
+:100644 100644 982beb8b... 62a1cd40... M	spec/mpd_spec.js
+:100644 100644 6edc1992... 7f3cb6ed... M	spec/util.js
+
+user:Timothy Drews
+1407546415
+:000000 100644 00000000... 6dc8e977... A	assets/car-20120827-87.sidx
+:100644 100644 ff75df9a... 20236020... M	index.html
+:000000 100644 00000000... 7e895dd4... A	lib/data_view_reader.js
+:100644 100644 ead2a984... 079f261c... M	lib/mpd.js
+:100644 100644 5272e691... 36b4af22... M	lib/player.js
+:000000 100644 00000000... 71860634... A	lib/segment_index.js
+:000000 100644 00000000... 31995134... A	spec/data_view_reader_spec.js
+:000000 100644 00000000... 0cf0873e... A	spec/segment_index_spec.js
+:100644 100644 6fbd01d8... 77ad3e58... M	spec_runner.html
+
+user:Timothy Drews
+1407547759
+:100644 100644 7e895dd4... ce0ac6b9... M	lib/data_view_reader.js
+:100644 100644 31995134... 30291ba8... M	spec/data_view_reader_spec.js
+
+user:Timothy Drews
+1408053763
+:000000 100644 00000000... 0b16d56c... A	assets/car-20120827-manifest.mpd
+:100644 100644 20236020... 80004bd6... M	index.html
+:000000 100644 00000000... bf6151f5... A	lib/dash_stream.js
+:000000 100644 00000000... 102ad3e0... A	lib/dash_video_source.js
+:100644 100644 ce0ac6b9... 75961eaa... M	lib/data_view_reader.js
+:100644 100644 662f1657... 5e3d932e... M	lib/event_manager.js
+:000000 100644 00000000... 294425b4... A	lib/key_system.js
+:100644 100644 3eb402a3... eff6211c... M	lib/license_request.js
+:000000 100644 00000000... 3e9f491e... A	lib/media_file.js
+:100644 100644 079f261c... c76a2375... M	lib/mpd.js
+:100644 100644 f6c1e218... 4afb438f... M	lib/mpd_request.js
+:000000 100644 00000000... 6887da6c... A	lib/mpd_util.js
+:100644 100644 36b4af22... ac1b4214... M	lib/player.js
+:000000 100644 00000000... 1bbc50eb... A	lib/range_request.js
+:100644 100644 71860634... b37af773... M	lib/segment_index.js
+:000000 100644 00000000... fe2dc3ac... A	lib/video_source.js
+:100644 100644 d20587f9... f5f65d51... M	main.js
+:100644 100644 30291ba8... 99f48cff... M	spec/data_view_reader_spec.js
+:100644 100644 7687c7e2... d5fb91af... M	spec/event_manager_spec.js
+:100644 100644 62a1cd40... a629df35... M	spec/mpd_spec.js
+
+user:Timothy Drews
+1408065662
+:100644 100644 bf6151f5... e6c08785... M	lib/dash_stream.js
+:100644 100644 102ad3e0... cc94321d... M	lib/dash_video_source.js
+:100644 100644 294425b4... 2cfc70f9... M	lib/key_system.js
+:100644 100644 c76a2375... 11383652... M	lib/mpd.js
+:100644 100644 6887da6c... 3a5bfcc8... M	lib/mpd_util.js
+:100644 100644 ac1b4214... 064ede90... M	lib/player.js
+:100644 100644 f5f65d51... d181a311... M	main.js
+:100644 100644 7f3cb6ed... 6200583b... M	spec/util.js
+
+user:Joey Parrish
+1408727017
+:000000 100755 00000000... 067b12bc... A	check.sh
+:000000 100644 00000000... 84d2924b... A	closure/base.js
+:000000 100644 00000000... c7006a88... A	closure/compiler.jar
+:000000 100644 00000000... b187383e... A	externs/htmltrackelement.js
+:000000 100644 00000000... 8cc037fd... A	externs/jwk_set.js
+:000000 100644 00000000... 7744354e... A	externs/mediakeys.js
+:000000 100644 00000000... 0e73b6c6... A	externs/prefixed_eme.js
+:100644 100644 80004bd6... 4c25e4ac... M	index.html
+:100644 100644 e6c08785... 30d540f7... M	lib/dash_stream.js
+:100644 100644 cc94321d... 52494cd5... M	lib/dash_video_source.js
+:100644 100644 75961eaa... b559c21a... M	lib/data_view_reader.js
+:100644 100644 5e3d932e... 201a46c4... M	lib/event_manager.js
+:000000 100644 00000000... b7074f0c... A	lib/http_video_source.js
+:100644 100644 2cfc70f9... 61746646... M	lib/key_system.js
+:100644 100644 eff6211c... 870c954b... M	lib/license_request.js
+:100644 000000 3e9f491e... 00000000... D	lib/media_file.js
+:100644 100644 11383652... f7abe24a... M	lib/mpd.js
+:100644 100644 4afb438f... e4f942f6... M	lib/mpd_request.js
+:100644 100644 3a5bfcc8... 0c06811d... M	lib/mpd_util.js
+:100644 100644 064ede90... ab268d30... M	lib/player.js
+:100644 100644 1bbc50eb... 9b1c5aad... M	lib/range_request.js
+:100644 100644 b37af773... 1cdaf512... M	lib/segment_index.js
+:000000 100644 00000000... 974f6508... A	lib/string_utils.js
+:100644 000000 c28f540a... 00000000... D	lib/util.js
+:100644 100644 fe2dc3ac... 9c10f884... M	lib/video_source.js
+:100644 100644 d181a311... f572fa4d... M	main.js
+:100644 100644 99f48cff... 06d712e1... M	spec/data_view_reader_spec.js
+:100644 100644 d5fb91af... d24d21bd... M	spec/event_manager_spec.js
+:100644 100644 052e0725... 17718503... M	spec/license_request_spec.js
+:100644 100644 a629df35... a6cf3157... M	spec/mpd_spec.js
+:100644 100644 0cf0873e... c02b5b96... M	spec/segment_index_spec.js
+:100644 100644 77ad3e58... f99285f4... M	spec_runner.html
+
+user:Joey Parrish
+1408727232
+:100644 100644 ab268d30... 7ab7d629... M	lib/player.js
+:100644 100644 974f6508... e3a7f12a... M	lib/string_utils.js
+
+user:Joey Parrish
+1408734828
+:100644 100644 52494cd5... 8206cff1... M	lib/dash_video_source.js
+:100644 100644 b7074f0c... cd64ae3c... M	lib/http_video_source.js
+:100644 100644 7ab7d629... 7b6c29ad... M	lib/player.js
+:100644 100644 9c10f884... 8ea2b9dc... M	lib/video_source.js
+:100644 100644 f572fa4d... b85daa77... M	main.js
+
+user:Joey Parrish
+1409073716
+:100755 100755 067b12bc... dcfe1ea7... M	check.sh
+:100644 100644 4c25e4ac... dbf15f98... M	index.html
+:000000 100644 00000000... 4290ed4f... A	lib/ajax_request.js
+:100644 100644 30d540f7... f22df835... M	lib/dash_stream.js
+:100644 100644 8206cff1... f78b9e3a... M	lib/dash_video_source.js
+:100644 100644 b559c21a... bea94fcb... M	lib/data_view_reader.js
+:100644 100644 cd64ae3c... e4287f50... M	lib/http_video_source.js
+:100644 100644 61746646... 38b245b6... M	lib/key_system.js
+:100644 100644 870c954b... fc932299... M	lib/license_request.js
+:100644 100644 e4f942f6... 92d8c1a5... M	lib/mpd_request.js
+:100644 100644 7b6c29ad... eb3419e1... M	lib/player.js
+:000000 100644 00000000... 62a6dab8... A	lib/player_error.js
+:100644 100644 9b1c5aad... 56b12b64... M	lib/range_request.js
+:100644 100644 8ea2b9dc... 4b5b30b5... M	lib/video_source.js
+:100644 100644 b85daa77... f904a094... M	main.js
+:100644 100644 17718503... 974a15d6... M	spec/license_request_spec.js
+:100644 100644 6200583b... f3be258a... M	spec/util.js
+:100644 100644 f99285f4... b3e25d3f... M	spec_runner.html
+
+user:Timothy Drews
+1409348603
+:100644 100644 dbf15f98... ddca7a58... M	index.html
+:100644 100644 f22df835... 66f3c4c9... M	lib/dash_stream.js
+:100644 100644 bea94fcb... 436100da... M	lib/data_view_reader.js
+:000000 100644 00000000... 8252ac49... A	lib/ebml_parser.js
+:000000 100644 00000000... d0aa141b... A	lib/isobmff_segment_index_parser.js
+:100644 100644 1cdaf512... 8489b16f... M	lib/segment_index.js
+:000000 100644 00000000... 20596c6f... A	lib/segment_reference.js
+:000000 100644 00000000... 4005d4fe... A	lib/webm_segment_index_parser.js
+:100644 100644 06d712e1... 77484fd3... M	spec/data_view_reader_spec.js
+:000000 100644 00000000... bb7dd722... A	spec/ebml_parser_spec.js
+:100644 100644 c02b5b96... 66506794... M	spec/segment_index_spec.js
+:100644 100644 b3e25d3f... 5ed881f0... M	spec_runner.html
+
+user:Joey Parrish
+1409678822
+:100644 100644 436100da... 735e8905... M	lib/data_view_reader.js
+:100644 100644 77484fd3... 2fae16e2... M	spec/data_view_reader_spec.js
+
+user:Joey Parrish
+1409678886
+:100755 100755 dcfe1ea7... 10fa545e... M	check.sh
+:100644 000000 84d2924b... 00000000... D	closure/base.js
+:000000 100644 00000000... b82e7154... A	closure/goog/base.js
+:000000 100644 00000000... e0bb7509... A	closure/goog/string/string.js
+:000000 100644 00000000... 4f4f8e98... A	closure/goog/uri/uri.js
+:000000 100644 00000000... 357e6cab... A	closure/goog/uri/utils.js
+:100644 100644 ddca7a58... 0211f222... M	index.html
+:100644 100644 5ed881f0... 4665b0cb... M	spec_runner.html
+
+user:Joey Parrish
+1409894357
+:000000 100644 00000000... 02b75f57... A	assets/car_cenc-20120827-manifest.mpd
+:000000 100644 00000000... d9ef94b8... A	assets/test_license.json
+:100644 100644 7744354e... d225bd98... M	externs/mediakeys.js
+:100644 100644 0211f222... c25ab024... M	index.html
+:100644 100644 4290ed4f... 06fcbbdf... M	lib/ajax_request.js
+:000000 100644 00000000... 8942cd92... A	lib/array_utils.js
+:100644 100644 66f3c4c9... 2163bc89... M	lib/dash_stream.js
+:100644 100644 f78b9e3a... e645d875... M	lib/dash_video_source.js
+:000000 100644 00000000... 22695664... A	lib/drm_scheme_info.js
+:100644 100644 e4287f50... 8a185523... M	lib/http_video_source.js
+:100644 000000 38b245b6... 00000000... D	lib/key_system.js
+:100644 000000 f7abe24a... 00000000... D	lib/mpd.js
+:000000 100644 00000000... b6c06828... A	lib/mpd_parser.js
+:000000 100644 00000000... e66f47dc... A	lib/mpd_processor.js
+:100644 000000 0c06811d... 00000000... D	lib/mpd_util.js
+:000000 100644 00000000... 28f01f69... A	lib/multi_map.js
+:100644 100644 eb3419e1... 176fc49c... M	lib/player.js
+:000000 100644 00000000... 53f8692b... A	lib/pssh.js
+:100644 100644 8489b16f... 08c711b5... M	lib/segment_index.js
+:100644 100644 e3a7f12a... 22d6be67... M	lib/string_utils.js
+:100644 100644 4b5b30b5... 20ca283f... M	lib/video_source.js
+:100644 100644 f904a094... cb718297... M	main.js
+:100644 100644 974a15d6... cd6622e5... M	spec/license_request_spec.js
+:100644 100644 a6cf3157... 10ed27ba... M	spec/mpd_spec.js
+:100644 100644 4665b0cb... 9c16fd9c... M	spec_runner.html
+:100644 000000 d9ef94b8... 00000000... D	test_license.json
+
+user:Joey Parrish
+1409940345
+:100644 100644 e645d875... f842b442... M	lib/dash_video_source.js
+
+user:Joey Parrish
+1409941037
+:100755 100755 10fa545e... 17c6561a... M	check.sh
+
+user:Joey Parrish
+1409942768
+:100644 100644 06fcbbdf... 57bfa34e... M	lib/ajax_request.js
+:100644 100644 cd6622e5... 84f4bb20... M	spec/license_request_spec.js
+
+user:Joey Parrish
+1410198257
+:100644 100644 c25ab024... b623f29d... M	index.html
+:100644 100644 cb718297... 735f7efe... M	main.js
+
+user:Joey Parrish
+1410199185
+:100644 100644 02b75f57... bfbafba8... M	assets/car_cenc-20120827-manifest.mpd
+
+user:Timothy Drews
+1410457677
+:000000 100644 00000000... 52e50e53... A	assets/feelings_vp9-20130806-171.webm.cues
+:000000 100644 00000000... db0ba61f... A	assets/feelings_vp9-20130806-171.webm.headers
+:000000 100644 00000000... 97cd59d3... A	assets/feelings_vp9-20130806-manifest.mpd
+:100644 100644 2163bc89... 6484121a... M	lib/dash_stream.js
+:100644 100644 735e8905... c82c9cbf... M	lib/data_view_reader.js
+:100644 100644 8252ac49... 91e349eb... M	lib/ebml_parser.js
+:100644 100644 08c711b5... 0c6f6d24... M	lib/segment_index.js
+:100644 100644 4005d4fe... c14ef2fc... M	lib/webm_segment_index_parser.js
+:100644 100644 2fae16e2... cec92036... M	spec/data_view_reader_spec.js
+:100644 100644 bb7dd722... a325b388... M	spec/ebml_parser_spec.js
+:100644 100644 66506794... b2f70e32... M	spec/segment_index_spec.js
+
+user:Timothy Drews
+1410459121
+user:Joey Parrish
+1410477828
+:100755 100755 17c6561a... bb038832... M	check.sh
+:100644 100644 d225bd98... 12ce526d... M	externs/mediakeys.js
+:100644 100644 0e73b6c6... 6a701fea... M	externs/prefixed_eme.js
+:100644 100644 b623f29d... 81725928... M	index.html
+:000000 100644 00000000... 1bb6f23c... A	lib/fake_event.js
+:100644 100644 28f01f69... 5d9cc161... M	lib/multi_map.js
+:100644 100644 176fc49c... b0164696... M	lib/player.js
+:000000 100644 00000000... 4b03e420... A	lib/polyfill/fullscreen.js
+:000000 100644 00000000... c0fa7bc1... A	lib/polyfill/mediakeys.js
+:100644 100644 22d6be67... 455449dc... M	lib/string_utils.js
+:100644 100644 735f7efe... 1b8c0a95... M	main.js
+
+user:Joey Parrish
+1410477877
+:000000 100644 00000000... bcd67f5c... A	.gitignore
+:000000 100755 00000000... 7d3c8aa0... A	assets/generate_jwkset.py
+:000000 100755 00000000... fa657b42... A	build/build.sh
+:000000 100755 00000000... 05ba89af... A	build/check.sh
+:000000 100755 00000000... 866afe95... A	build/gendeps.sh
+:000000 100644 00000000... 98f453b3... A	build/lib.sh
+:000000 100755 00000000... 661bda0e... A	build/lint.sh
+:100755 000000 bb038832... 00000000... D	check.sh
+:000000 100755 00000000... dfecc4bf... A	closure/deps/depswriter.py
+:000000 100644 00000000... 64e74858... A	closure/deps/source.py
+:000000 100644 00000000... 6694593a... A	closure/deps/treescan.py
+:100644 100644 81725928... c3e19a53... M	index.html
+:100644 000000 6e71f5cf... 00000000... D	util/generate_fake_license.py
+
+user:Joey Parrish
+1410477877
+:100644 100644 b82e7154... 34983943... M	closure/goog/base.js
+:100644 000000 e0bb7509... 00000000... D	closure/goog/string/string.js
+:100644 100644 4f4f8e98... 130136e1... M	closure/goog/uri/uri.js
+:100644 100644 357e6cab... 2b9cfc35... M	closure/goog/uri/utils.js
+:100644 100644 57bfa34e... 98dee264... M	lib/ajax_request.js
+:100644 100644 b6c06828... 8e6122ca... M	lib/mpd_parser.js
+
+user:Joey Parrish
+1410477877
+:000000 100644 00000000... 18475fe6... A	support.html
+
+user:Joey Parrish
+1410563354
+:000000 100644 00000000... cc670b00... A	externs/fullscreen.js
+:100644 100644 12ce526d... 5c3368bf... M	externs/mediakeys.js
+:100644 100644 6a701fea... 9d8919df... M	externs/prefixed_eme.js
+:100644 100644 f842b442... 09d05b97... M	lib/dash_video_source.js
+:000000 100644 00000000... 59013af8... A	lib/fake_event_target.js
+:100644 100644 e66f47dc... f02c4896... M	lib/mpd_processor.js
+:100644 100644 b0164696... ee36337b... M	lib/player.js
+:100644 100644 4b03e420... eb42ea18... M	lib/polyfill/fullscreen.js
+:100644 100644 c0fa7bc1... 74741b7b... M	lib/polyfill/mediakeys.js
+
+user:Timothy Drews
+1410818570
+:000000 100644 00000000... 1c0618db... A	lib/asserts.js
+:100644 100644 6484121a... 8d24ba17... M	lib/dash_stream.js
+:100644 100644 09d05b97... f03dcdb4... M	lib/dash_video_source.js
+:100644 100644 c82c9cbf... 378e1e1b... M	lib/data_view_reader.js
+:100644 100644 22695664... a2c96d75... M	lib/drm_scheme_info.js
+:100644 100644 201a46c4... 0a53ea3f... M	lib/event_manager.js
+:100644 100644 d0aa141b... 414edbf8... M	lib/isobmff_segment_index_parser.js
+:000000 100644 00000000... d5cd53f5... A	lib/log.js
+:100644 100644 8e6122ca... 74e23bdf... M	lib/mpd_parser.js
+:100644 100644 f02c4896... bc15af4e... M	lib/mpd_processor.js
+:100644 100644 ee36337b... c0dd252e... M	lib/player.js
+:100644 100644 74741b7b... a2af5cd1... M	lib/polyfill/mediakeys.js
+:100644 100644 c14ef2fc... 6b18c816... M	lib/webm_segment_index_parser.js
+:100644 100644 1b8c0a95... 453b18f7... M	main.js
+
+user:Joey Parrish
+1410884541
+:100644 100644 453b18f7... 1049bd9c... M	main.js
+
+user:Joey Parrish
+1410976631
+:100644 100644 c0dd252e... 35592d66... M	lib/player.js
+:100644 100644 a2af5cd1... a9e422c0... M	lib/polyfill/mediakeys.js
+
+user:Joey Parrish
+1410976631
+:100644 100644 18475fe6... ea67d641... M	support.html
+
+user:Joey Parrish
+1410977682
+:100644 100644 0a53ea3f... a6fc57fd... M	lib/event_manager.js
+:100644 100644 5d9cc161... 8106e058... M	lib/multi_map.js
+:100644 100644 9c16fd9c... e22dffa5... M	spec_runner.html
+
+user:Joey Parrish
+1411075948
+:100644 100644 bcd67f5c... 9be43447... M	.gitignore
+:100755 100755 fa657b42... 08b29f61... M	build/build.sh
+:100755 100755 05ba89af... 38a59524... M	build/check.sh
+:100644 100644 9d8919df... 34535e67... M	externs/prefixed_eme.js
+
+user:Joey Parrish
+1411081017
+:100644 100644 1bb6f23c... cf793cde... M	lib/fake_event.js
+:100644 100644 59013af8... ee6843ca... M	lib/fake_event_target.js
+:100644 100644 a9e422c0... 72eef9de... M	lib/polyfill/mediakeys.js
+
+user:Joey Parrish
+1411408344
+:100644 100644 98dee264... d80d96e9... M	lib/ajax_request.js
+:100644 100644 8d24ba17... 29198d95... M	lib/dash_stream.js
+:100644 100644 f03dcdb4... a6001103... M	lib/dash_video_source.js
+:100644 100644 8a185523... 7d279884... M	lib/http_video_source.js
+:100644 100644 414edbf8... 2dbe3126... M	lib/isobmff_segment_index_parser.js
+:100644 100644 fc932299... cdf91c08... M	lib/license_request.js
+:100644 100644 74e23bdf... 040d3265... M	lib/mpd_parser.js
+:100644 100644 92d8c1a5... 417a2c6b... M	lib/mpd_request.js
+:100644 100644 35592d66... c2a2a3cf... M	lib/player.js
+:100644 000000 62a6dab8... 00000000... D	lib/player_error.js
+:100644 100644 72eef9de... 2fc5499f... M	lib/polyfill/mediakeys.js
+:000000 100644 00000000... 032d04f2... A	lib/public_promise.js
+:100644 100644 56b12b64... 30785be9... M	lib/range_request.js
+:000000 100644 00000000... 894ee743... A	lib/typed_bind.js
+:100644 100644 20ca283f... 75b75e38... M	lib/video_source.js
+:100644 100644 6b18c816... 5d1b36c9... M	lib/webm_segment_index_parser.js
+:100644 100644 1049bd9c... 30158add... M	main.js
+:100644 100644 84f4bb20... bcfbef2a... M	spec/license_request_spec.js
+:100644 100644 e22dffa5... d4c4d298... M	spec_runner.html
+
+user:Joey Parrish
+1411408744
+:100644 100644 ee6843ca... 24312337... M	lib/fake_event_target.js
+
+user:Joey Parrish
+1411410983
+:100644 100644 c2a2a3cf... 3442aa82... M	lib/player.js
+:100644 100644 2fc5499f... 7658ee7a... M	lib/polyfill/mediakeys.js
+
+user:Joey Parrish
+1412131341
+:100644 100644 98f453b3... 39259df8... M	build/lib.sh
+:100644 100644 8942cd92... 58d0d4b4... M	lib/array_utils.js
+:100644 100644 a6001103... f7b5c355... M	lib/dash_video_source.js
+:100644 100644 a2c96d75... 1cbf9441... M	lib/drm_scheme_info.js
+:100644 100644 7d279884... 81fc7ec9... M	lib/http_video_source.js
+:100644 100644 2dbe3126... e67f4c14... M	lib/isobmff_segment_index_parser.js
+:100644 100644 040d3265... 3f949a41... M	lib/mpd_parser.js
+:100644 100644 3442aa82... 42836ea7... M	lib/player.js
+:100644 100644 eb42ea18... a10164cb... M	lib/polyfill/fullscreen.js
+:100644 100644 7658ee7a... e0e48b85... M	lib/polyfill/mediakeys.js
+:100644 100644 53f8692b... 84c955f0... M	lib/pssh.js
+:100644 100644 30785be9... 47a09db1... M	lib/range_request.js
+:100644 100644 0c6f6d24... 286964a2... M	lib/segment_index.js
+:100644 100644 455449dc... 517018de... M	lib/string_utils.js
+:100644 100644 30158add... e0d6282a... M	main.js
+
+user:Joey Parrish
+1412207397
+:000000 100644 00000000... 487749bd... A	app.js
+:100755 100755 08b29f61... f255e8bc... M	build/build.sh
+:100644 100644 c3e19a53... 1736cee8... M	index.html
+:000000 100644 00000000... c32c1354... A	load.js
+:100644 000000 e0d6282a... 00000000... D	main.js
+
+user:Joey Parrish
+1412361778
+:100644 100644 29198d95... daa2d60d... M	lib/dash_stream.js
+
+user:Joey Parrish
+1412620862
+:100644 100644 daa2d60d... aaebc980... M	lib/dash_stream.js
+:100644 100644 e67f4c14... 9dbeb2db... M	lib/isobmff_segment_index_parser.js
+
+user:Joey Parrish
+1412620880
+:100644 100644 aaebc980... cc75a5f0... M	lib/dash_stream.js
+:100644 100644 f7b5c355... 77e8fd21... M	lib/dash_video_source.js
+:100644 100644 cdf91c08... dbf77503... M	lib/license_request.js
+:100644 100644 417a2c6b... 5f22fadb... M	lib/mpd_request.js
+:100644 100644 42836ea7... 8554b809... M	lib/player.js
+
+user:Timothy Drews
+1412635782
+:100644 100644 487749bd... c66643cd... M	app.js
+:100644 100644 1736cee8... db40b714... M	index.html
+:000000 100644 00000000... 114cc19b... A	lib/audio_track.js
+:100644 100644 77e8fd21... a4cab2d4... M	lib/dash_video_source.js
+:100644 100644 81fc7ec9... 015b4c43... M	lib/http_video_source.js
+:100644 100644 3f949a41... a95f37e0... M	lib/mpd_parser.js
+:100644 100644 bc15af4e... b90e2749... M	lib/mpd_processor.js
+:100644 100644 8554b809... 8565d290... M	lib/player.js
+:100644 100644 75b75e38... 3fc27940... M	lib/video_source.js
+:000000 100644 00000000... 04d811d6... A	lib/video_track.js
+:000000 100644 00000000... a378e88d... A	spec/dash_video_source_spec.js
+:100644 100644 d4c4d298... de25d8d5... M	spec_runner.html
+
+user:Joey Parrish
+1412701630
+:100644 100644 c66643cd... d7d84767... M	app.js
+:100644 100644 39259df8... 205441a7... M	build/lib.sh
+:100755 100755 661bda0e... b4fdcdd2... M	build/lint.sh
+:100644 100644 114cc19b... a16c02ad... M	lib/audio_track.js
+:100644 100644 04d811d6... c3eee378... M	lib/video_track.js
+:100644 100644 c32c1354... 6b652db9... M	load.js
+
+user:Joey Parrish
+1412704473
+:100644 100644 d7d84767... c0eaf19e... M	app.js
+:000000 100755 00000000... e285129f... A	build/all.sh
+
+user:Joey Parrish
+1412709763
+:100644 100644 0b16d56c... 27278f8e... M	assets/car-20120827-manifest.mpd
+:100644 100644 bfbafba8... 57fedb99... M	assets/car_cenc-20120827-manifest.mpd
+:100644 100644 a4cab2d4... ba4cced4... M	lib/dash_video_source.js
+
+user:Joey Parrish
+1412716956
+:000000 100644 00000000... d835b70d... A	lib/language_utils.js
+:100644 100644 a95f37e0... 2dc25858... M	lib/mpd_parser.js
+:100644 100644 b90e2749... db27c8ec... M	lib/mpd_processor.js
+:000000 100644 00000000... 6cd38810... A	spec/language_utils_spec.js
+:100644 100644 de25d8d5... 2b9c4f92... M	spec_runner.html
+
+user:Joey Parrish
+1412717099
+:100644 100644 c0eaf19e... 4d178944... M	app.js
+:100644 100644 205441a7... 6ebf289f... M	build/lib.sh
+:100644 100644 ba4cced4... f081355f... M	lib/dash_video_source.js
+:100644 100644 015b4c43... ad8bbc0c... M	lib/http_video_source.js
+:100644 100644 db27c8ec... cfb77cbb... M	lib/mpd_processor.js
+:100644 100644 8565d290... 252ec4fe... M	lib/player.js
+:100644 100644 3fc27940... 66ffb504... M	lib/video_source.js
+
+user:Joey Parrish
+1412717099
+:100644 100644 a378e88d... 0e37abf9... M	spec/dash_video_source_spec.js
+:100644 100644 cec92036... 400de6ef... M	spec/data_view_reader_spec.js
+:100644 100644 a325b388... f572f110... M	spec/ebml_parser_spec.js
+:100644 100644 d24d21bd... 6bd5edda... M	spec/event_manager_spec.js
+:100644 100644 6cd38810... 7597f853... M	spec/language_utils_spec.js
+:100644 100644 bcfbef2a... 60bf08e6... M	spec/license_request_spec.js
+:100644 100644 10ed27ba... fe793b29... M	spec/mpd_spec.js
+:100644 100644 b2f70e32... c01b39bf... M	spec/segment_index_spec.js
+:100644 100644 2b9c4f92... dd61be15... M	spec_runner.html
+
+user:Joey Parrish
+1412725177
+:100644 100644 cfb77cbb... bb2c38eb... M	lib/mpd_processor.js
+
+user:Joey Parrish
+1412725177
+:100644 100644 2dc25858... 3c4248d3... M	lib/mpd_parser.js
+:100644 100644 fe793b29... e67cd382... M	spec/mpd_spec.js
+
+user:Joey Parrish
+1412877284
+:100644 100644 d80d96e9... c51d56f2... M	lib/ajax_request.js
+:100644 100644 3c4248d3... 0feb023e... M	lib/mpd_parser.js
+:100644 100644 5f22fadb... 0d238e8b... M	lib/mpd_request.js
+:100644 100644 e67cd382... 95b7de5b... M	spec/mpd_spec.js
+
+user:Joey Parrish
+1412877355
+:100644 100644 0feb023e... abf7acdb... M	lib/mpd_parser.js
+:100644 100644 95b7de5b... de32223a... M	spec/mpd_spec.js
+
+user:Joey Parrish
+1412877376
+:000000 100644 00000000... 4d6988e1... A	assets/angel_one.sidx
+:100644 100644 9dbeb2db... 4ec670fc... M	lib/isobmff_segment_index_parser.js
+:100644 100644 c01b39bf... f0462817... M	spec/segment_index_spec.js
+
+user:Joey Parrish
+1412877376
+:100644 100644 286964a2... 7ef68a8d... M	lib/segment_index.js
+
+user:Joey Parrish
+1412877376
+:100644 100644 cc75a5f0... 812312df... M	lib/dash_stream.js
+
+user:Joey Parrish
+1412877376
+:100644 100644 4d178944... bc407f6a... M	app.js
+:000000 100644 00000000... 92eb77be... A	assets/angel_one.mpd
+
+user:Joey Parrish
+1412889011
+:100644 100644 bc407f6a... aa06a777... M	app.js
+:000000 100644 00000000... bfc546d0... A	assets/.htaccess
+:100644 100644 92eb77be... 286c7c8b... M	assets/angel_one.mpd
+:100644 100644 db40b714... 85114898... M	index.html
+:100644 100644 f081355f... 96f18ac3... M	lib/dash_video_source.js
+:100644 100644 ad8bbc0c... e673a1cb... M	lib/http_video_source.js
+:100644 100644 bb2c38eb... f61a0907... M	lib/mpd_processor.js
+:100644 100644 252ec4fe... fa83f785... M	lib/player.js
+:000000 100644 00000000... c07dfe81... A	lib/text_track.js
+:100644 100644 66ffb504... f18df01f... M	lib/video_source.js
+:100644 100644 ea67d641... 660a3c23... M	support.html
+
+user:Joey Parrish
+1412889183
+:100644 100644 286c7c8b... 9b563d0a... M	assets/angel_one.mpd
+:100644 100644 d835b70d... ddcd20d5... M	lib/language_utils.js
+:100644 100644 abf7acdb... 68a4628a... M	lib/mpd_parser.js
+:100644 100644 fa83f785... ea80779d... M	lib/player.js
+
+user:Joey Parrish
+1412892934
+:100644 100644 d5cd53f5... 21bb6b9c... M	lib/log.js
+:100644 100644 ea80779d... 83d11050... M	lib/player.js
+
+user:Joey Parrish
+1412893001
+:000000 100644 00000000... 6be8b4ea... A	docs/reference/DASH-IF Interoperability Points v2.90.pdf
+:000000 100644 00000000... c3ac62ca... A	docs/reference/ISO 14496-12 - base media file format - coding of audio-visual objects.pdf
+:000000 100644 00000000... 34974c3e... A	docs/reference/ISO 23009-1 - DASH - Media presentation description and segment formats.pdf
+
+user:Joey Parrish
+1412957321
+:100644 100644 aa06a777... ef1cf702... M	app.js
+:100644 100644 bfc546d0... 733ba0ed... M	assets/.htaccess
+
+user:Joey Parrish
+1412957321
+:100644 100644 ef1cf702... 9da72806... M	app.js
+:100644 100644 06503e8e... bbd73d3a... M	index.css
+:100644 100644 85114898... ffd1b17e... M	index.html
+
+user:Joey Parrish
+1413327190
+:100644 100644 812312df... 57a704eb... M	lib/dash_stream.js
+:100644 100644 96f18ac3... 9ebb7f3b... M	lib/dash_video_source.js
+:100644 100644 4ec670fc... 35fa68e5... M	lib/isobmff_segment_index_parser.js
+:100644 100644 83d11050... de90c6d2... M	lib/player.js
+:100644 100644 7ef68a8d... df24ea88... M	lib/segment_index.js
+:100644 100644 f0462817... 08252552... M	spec/segment_index_spec.js
+
+user:Joey Parrish
+1413327356
+:100644 100644 57a704eb... 215eca9a... M	lib/dash_stream.js
+:100644 100644 35fa68e5... 5acfe1aa... M	lib/isobmff_segment_index_parser.js
+:100644 100644 de90c6d2... f960933f... M	lib/player.js
+:100644 100644 e0e48b85... 933e9336... M	lib/polyfill/mediakeys.js
+
+user:Joey Parrish
+1413327360
+:100644 100644 68a4628a... f00cdc02... M	lib/mpd_parser.js
+:100644 100644 de32223a... 27d1fb65... M	spec/mpd_spec.js
+
+user:Joey Parrish
+1413483088
+:100644 100644 c51d56f2... e28fe0af... M	lib/ajax_request.js
+:000000 100644 00000000... 65de03aa... A	lib/bandwidth_estimator.js
+:100644 100644 215eca9a... 2881441f... M	lib/dash_stream.js
+:100644 100644 9ebb7f3b... 2ed52aaf... M	lib/dash_video_source.js
+:000000 100644 00000000... a498101e... A	lib/ewma.js
+:100644 100644 dbf77503... f405b413... M	lib/license_request.js
+:100644 100644 f00cdc02... 86a049e7... M	lib/mpd_parser.js
+:100644 100644 0d238e8b... 53430aa8... M	lib/mpd_request.js
+:100644 100644 47a09db1... 731d7526... M	lib/range_request.js
+:100644 100644 60bf08e6... 376725be... M	spec/license_request_spec.js
+
+user:Joey Parrish
+1413483243
+:100644 100644 08252552... 662bd285... M	spec/segment_index_spec.js
+
+user:Joey Parrish
+1413483290
+:100644 100644 2ed52aaf... 398684c9... M	lib/dash_video_source.js
+
+user:Joey Parrish
+1413483291
+:100644 100644 2881441f... f0fffc00... M	lib/dash_stream.js
+
+user:Joey Parrish
+1413483307
+:000000 100755 00000000... 98718223... A	build/audit_todo.sh
+:100644 100644 65de03aa... fe0d0661... M	lib/bandwidth_estimator.js
+:100644 100644 f0fffc00... 2220232b... M	lib/dash_stream.js
+:100644 100644 398684c9... 1af302d0... M	lib/dash_video_source.js
+:100644 100644 24312337... 41081b33... M	lib/fake_event_target.js
+:100644 100644 5acfe1aa... bcffa801... M	lib/isobmff_segment_index_parser.js
+:100644 100644 f960933f... e52151ac... M	lib/player.js
+:100644 100644 933e9336... cb8b3de5... M	lib/polyfill/mediakeys.js
+:100644 100644 0e37abf9... 64bf4d87... M	spec/dash_video_source_spec.js
+:100644 100644 400de6ef... 45f3382e... M	spec/data_view_reader_spec.js
+
+user:Joey Parrish
+1413491068
+:100644 100644 9da72806... 5491b115... M	app.js
+:100644 100644 ffd1b17e... 541458d2... M	index.html
+:100644 100644 a16c02ad... a27cf797... M	lib/audio_track.js
+:100644 100644 2220232b... c206a4c3... M	lib/dash_stream.js
+:100644 100644 1af302d0... 7aa0b90a... M	lib/dash_video_source.js
+:100644 100644 e673a1cb... 2fa87ce0... M	lib/http_video_source.js
+:100644 100644 86a049e7... 58ef2c32... M	lib/mpd_parser.js
+:100644 100644 e52151ac... 7447837d... M	lib/player.js
+:100644 100644 df24ea88... c0de05a2... M	lib/segment_index.js
+:100644 100644 c07dfe81... b3841393... M	lib/text_track.js
+:100644 100644 f18df01f... 80baede7... M	lib/video_source.js
+:100644 100644 c3eee378... 599ac9fe... M	lib/video_track.js
+:100644 100644 64bf4d87... dead6e7a... M	spec/dash_video_source_spec.js
+
+user:Joey Parrish
+1413498780
+:100644 100644 c206a4c3... ff8850df... M	lib/dash_stream.js
+:000000 100644 00000000... 4836cc4e... A	lib/source_buffer_manager.js
+
+user:Joey Parrish
+1413498919
+:100644 100644 5491b115... 30b29122... M	app.js
+:100644 100644 541458d2... dbb56837... M	index.html
+
+user:Joey Parrish
+1413831694
+:100644 100644 30b29122... 37615ae3... M	app.js
+:100644 100644 dbb56837... 05e02449... M	index.html
+:100644 100644 ff8850df... 626493ad... M	lib/dash_stream.js
+:000000 100644 00000000... 38579161... A	lib/dash_text_stream.js
+:100644 100644 7aa0b90a... b7a3129b... M	lib/dash_video_source.js
+:100644 100644 2fa87ce0... c2548bb2... M	lib/http_video_source.js
+:100644 100644 f61a0907... 0542075b... M	lib/mpd_processor.js
+:100644 100644 7447837d... 89e25fac... M	lib/player.js
+:100644 100644 b3841393... 051006e3... M	lib/text_track.js
+:100644 100644 80baede7... 20ca16fb... M	lib/video_source.js
+
+user:Joey Parrish
+1413832152
+:100644 100644 58ef2c32... df26d396... M	lib/mpd_parser.js
+:100644 100644 0542075b... f3778cd7... M	lib/mpd_processor.js
+
+user:Joey Parrish
+1413841293
+:100644 000000 e28fe0af... 00000000... D	lib/ajax_request.js
+:100644 000000 58d0d4b4... 00000000... D	lib/array_utils.js
+:100644 000000 1c0618db... 00000000... D	lib/asserts.js
+:100644 000000 a27cf797... 00000000... D	lib/audio_track.js
+:100644 000000 fe0d0661... 00000000... D	lib/bandwidth_estimator.js
+:000000 100644 00000000... 626493ad... A	lib/dash/dash_stream.js
+:000000 100644 00000000... 38579161... A	lib/dash/dash_text_stream.js
+:000000 100644 00000000... bcffa801... A	lib/dash/isobmff_segment_index_parser.js
+:000000 100644 00000000... df26d396... A	lib/dash/mpd_parser.js
+:000000 100644 00000000... f3778cd7... A	lib/dash/mpd_processor.js
+:000000 100644 00000000... 53430aa8... A	lib/dash/mpd_request.js
+:000000 100644 00000000... c0de05a2... A	lib/dash/segment_index.js
+:000000 100644 00000000... 20596c6f... A	lib/dash/segment_reference.js
+:000000 100644 00000000... 4836cc4e... A	lib/dash/source_buffer_manager.js
+:000000 100644 00000000... 5d1b36c9... A	lib/dash/webm_segment_index_parser.js
+:100644 000000 626493ad... 00000000... D	lib/dash_stream.js
+:100644 000000 38579161... 00000000... D	lib/dash_text_stream.js
+:100644 000000 b7a3129b... 00000000... D	lib/dash_video_source.js
+:100644 000000 378e1e1b... 00000000... D	lib/data_view_reader.js
+:000000 100644 00000000... 1c0618db... A	lib/debug/asserts.js
+:000000 100644 00000000... 21bb6b9c... A	lib/debug/log.js
+:100644 000000 1cbf9441... 00000000... D	lib/drm_scheme_info.js
+:100644 000000 91e349eb... 00000000... D	lib/ebml_parser.js
+:100644 000000 a6fc57fd... 00000000... D	lib/event_manager.js
+:100644 000000 a498101e... 00000000... D	lib/ewma.js
+:100644 000000 cf793cde... 00000000... D	lib/fake_event.js
+:100644 000000 41081b33... 00000000... D	lib/fake_event_target.js
+:100644 000000 c2548bb2... 00000000... D	lib/http_video_source.js
+:100644 000000 bcffa801... 00000000... D	lib/isobmff_segment_index_parser.js
+:100644 000000 ddcd20d5... 00000000... D	lib/language_utils.js
+:100644 000000 f405b413... 00000000... D	lib/license_request.js
+:100644 000000 21bb6b9c... 00000000... D	lib/log.js
+:100644 000000 df26d396... 00000000... D	lib/mpd_parser.js
+:100644 000000 f3778cd7... 00000000... D	lib/mpd_processor.js
+:100644 000000 53430aa8... 00000000... D	lib/mpd_request.js
+:100644 000000 8106e058... 00000000... D	lib/multi_map.js
+:100644 000000 89e25fac... 00000000... D	lib/player.js
+:000000 100644 00000000... a27cf797... A	lib/player/audio_track.js
+:000000 100644 00000000... b7a3129b... A	lib/player/dash_video_source.js
+:000000 100644 00000000... 1cbf9441... A	lib/player/drm_scheme_info.js
+:000000 100644 00000000... c2548bb2... A	lib/player/http_video_source.js
+:000000 100644 00000000... 89e25fac... A	lib/player/player.js
+:000000 100644 00000000... 051006e3... A	lib/player/text_track.js
+:000000 100644 00000000... 20ca16fb... A	lib/player/video_source.js
+:000000 100644 00000000... 599ac9fe... A	lib/player/video_track.js
+:100644 000000 84c955f0... 00000000... D	lib/pssh.js
+:100644 000000 032d04f2... 00000000... D	lib/public_promise.js
+:100644 000000 731d7526... 00000000... D	lib/range_request.js
+:100644 000000 c0de05a2... 00000000... D	lib/segment_index.js
+:100644 000000 20596c6f... 00000000... D	lib/segment_reference.js
+:100644 000000 4836cc4e... 00000000... D	lib/source_buffer_manager.js
+:100644 000000 517018de... 00000000... D	lib/string_utils.js
+:100644 000000 051006e3... 00000000... D	lib/text_track.js
+:100644 000000 894ee743... 00000000... D	lib/typed_bind.js
+:000000 100644 00000000... e28fe0af... A	lib/util/ajax_request.js
+:000000 100644 00000000... 58d0d4b4... A	lib/util/array_utils.js
+:000000 100644 00000000... fe0d0661... A	lib/util/bandwidth_estimator.js
+:000000 100644 00000000... 378e1e1b... A	lib/util/data_view_reader.js
+:000000 100644 00000000... 91e349eb... A	lib/util/ebml_parser.js
+:000000 100644 00000000... a6fc57fd... A	lib/util/event_manager.js
+:000000 100644 00000000... a498101e... A	lib/util/ewma.js
+:000000 100644 00000000... cf793cde... A	lib/util/fake_event.js
+:000000 100644 00000000... 41081b33... A	lib/util/fake_event_target.js
+:000000 100644 00000000... ddcd20d5... A	lib/util/language_utils.js
+:000000 100644 00000000... f405b413... A	lib/util/license_request.js
+:000000 100644 00000000... 8106e058... A	lib/util/multi_map.js
+:000000 100644 00000000... 84c955f0... A	lib/util/pssh.js
+:000000 100644 00000000... 032d04f2... A	lib/util/public_promise.js
+:000000 100644 00000000... 731d7526... A	lib/util/range_request.js
+:000000 100644 00000000... 517018de... A	lib/util/string_utils.js
+:000000 100644 00000000... 894ee743... A	lib/util/typed_bind.js
+:100644 000000 20ca16fb... 00000000... D	lib/video_source.js
+:100644 000000 599ac9fe... 00000000... D	lib/video_track.js
+:100644 000000 5d1b36c9... 00000000... D	lib/webm_segment_index_parser.js
+
+user:Joey Parrish
+1413908459
+:100644 100644 37615ae3... 0a3e7dd2... M	app.js
+:100644 100644 626493ad... 6d96a163... M	lib/dash/dash_stream.js
+:100644 100644 38579161... 3d52d892... M	lib/dash/dash_text_stream.js
+:000000 100644 00000000... f45c02bf... A	lib/dash/i_dash_stream.js
+:000000 100644 00000000... d72a038d... A	lib/dash/i_segment_index_parser.js
+:100644 100644 bcffa801... 0dd30abf... M	lib/dash/isobmff_segment_index_parser.js
+:100644 100644 c0de05a2... 770e5dfc... M	lib/dash/segment_index.js
+:100644 100644 20596c6f... 7765dc96... M	lib/dash/segment_reference.js
+:100644 100644 5d1b36c9... 797f3c0f... M	lib/dash/webm_segment_index_parser.js
+:100644 100644 b7a3129b... c109c33f... M	lib/player/dash_video_source.js
+:100644 100644 c2548bb2... d8a5a67b... M	lib/player/http_video_source.js
+:000000 100644 00000000... 56496d4e... A	lib/player/i_video_source.js
+:100644 100644 89e25fac... a57976db... M	lib/player/player.js
+:100644 000000 20ca16fb... 00000000... D	lib/player/video_source.js
+:100644 100644 e28fe0af... 6f39aeef... M	lib/util/ajax_request.js
+:100644 000000 fe0d0661... 00000000... D	lib/util/bandwidth_estimator.js
+:000000 100644 00000000... 97161498... A	lib/util/ewma_bandwidth_estimator.js
+:000000 100644 00000000... 9eb6fbba... A	lib/util/i_bandwidth_estimator.js
+
+user:Joey Parrish
+1413908462
+:100644 100644 6d96a163... 20135a18... M	lib/dash/dash_stream.js
+
+user:Timothy Drews
+1414429260
+:100644 100644 662bd285... f2cf19c9... M	spec/segment_index_spec.js
+
+user:Timothy Drews
+1414435434
+:100644 100644 0a3e7dd2... 5ab453d8... M	app.js
+:100644 100644 05e02449... a2a24d88... M	index.html
+:100644 100644 20135a18... 897438d4... M	lib/dash/dash_stream.js
+:100644 100644 3d52d892... 7b0e82e7... M	lib/dash/dash_text_stream.js
+:100644 100644 f45c02bf... d960db15... M	lib/dash/i_dash_stream.js
+:100644 100644 770e5dfc... 1a596860... M	lib/dash/segment_index.js
+:100644 100644 4836cc4e... fd126cb8... M	lib/dash/source_buffer_manager.js
+:100644 100644 c109c33f... 7a4bcb13... M	lib/player/dash_video_source.js
+:100644 100644 6f39aeef... 2b41cf1c... M	lib/util/ajax_request.js
+
+user:Timothy Drews
+1414436363
+user:Joey Parrish
+1414540738
+:000000 100644 00000000... 58ebd394... A	jasmine/blanket_jasmine/blanket_jasmine.js
+
+user:Joey Parrish
+1414540758
+:100644 100644 58ebd394... 2f84d35c... M	jasmine/blanket_jasmine/blanket_jasmine.js
+
+user:Joey Parrish
+1414540772
+:100644 100644 2f84d35c... 4f5a2895... M	jasmine/blanket_jasmine/blanket_jasmine.js
+
+user:Joey Parrish
+1414540917
+:100644 100644 4f5a2895... 72fcb7f2... M	jasmine/blanket_jasmine/blanket_jasmine.js
+
+user:Joey Parrish
+1414540917
+:100644 100644 dd61be15... 8d15313a... M	spec_runner.html
+
+user:Joey Parrish
+1414607383
+:100644 100644 5ab453d8... b87ab93e... M	app.js
+:100644 100644 a2a24d88... 9a884efa... M	index.html
+
+user:Joey Parrish
+1414607386
+:100644 100644 cb8b3de5... 75e96fa4... M	lib/polyfill/mediakeys.js
+
+user:Timothy Drews
+1414614796
+:100644 100644 897438d4... b26b50ea... M	lib/dash/dash_stream.js
+:100644 100644 fd126cb8... a01b6a58... M	lib/dash/source_buffer_manager.js
+
+user:Timothy Drews
+1414616278
+user:Timothy Drews
+1414620858
+:100644 100644 b26b50ea... c955a526... M	lib/dash/dash_stream.js
+
+user:Joey Parrish
+1414679059
+user:Joey Parrish
+1414679066
+user:Joey Parrish
+1414696555
+:100644 100644 9b563d0a... d3f9fb87... M	assets/angel_one.mpd
+
+user:Joey Parrish
+1414696555
+:100644 100644 bbd73d3a... 24c1291f... M	index.css
+
+user:Joey Parrish
+1414701201
+:100644 100644 a57976db... 2ca1ac55... M	lib/player/player.js
+
+user:Joey Parrish
+1414713994
+:100644 100644 c955a526... 28841e0b... M	lib/dash/dash_stream.js
+:100644 100644 a01b6a58... 3db72cf4... M	lib/dash/source_buffer_manager.js
+:100644 100644 21bb6b9c... 06a3ce67... M	lib/debug/log.js
+:100644 100644 7a4bcb13... 279e76bd... M	lib/player/dash_video_source.js
+
+user:Joey Parrish
+1414778649
+:100644 100644 3db72cf4... fa9606f5... M	lib/dash/source_buffer_manager.js
+
+user:Joey Parrish
+1414778993
+:100644 100644 28841e0b... 64d30c9f... M	lib/dash/dash_stream.js
+:000000 100644 00000000... 40f61446... A	lib/debug/timer.js
+
+user:Joey Parrish
+1415148017
+:100644 100644 b87ab93e... dfadc698... M	app.js
+
+user:Joey Parrish
+1415211965
+:100644 100644 64d30c9f... 5697ad6c... M	lib/dash/dash_stream.js
+:100644 100644 fa9606f5... 91341e30... M	lib/dash/source_buffer_manager.js
+:100644 100644 2ca1ac55... dde86a3e... M	lib/player/player.js
+
+user:Joey Parrish
+1415212029
+user:Joey Parrish
+1415212137
+:100644 100644 df26d396... 2739e309... M	lib/dash/mpd_parser.js
+:100644 100644 279e76bd... ddce61b3... M	lib/player/dash_video_source.js
+:100644 100644 d8a5a67b... 06463e73... M	lib/player/http_video_source.js
+:100644 100644 56496d4e... 3d938320... M	lib/player/i_video_source.js
+:100644 100644 dde86a3e... 29588e66... M	lib/player/player.js
+
+user:Joey Parrish
+1415212137
+:100644 100644 5697ad6c... 867bc5c8... M	lib/dash/dash_stream.js
+:100644 100644 1a596860... 11986e3a... M	lib/dash/segment_index.js
+:000000 100644 00000000... 7fa9295e... A	lib/dash/segment_range.js
+:100644 100644 7765dc96... 5df4d359... M	lib/dash/segment_reference.js
+
+user:Joey Parrish
+1415212137
+:100644 100644 867bc5c8... 986ded9a... M	lib/dash/dash_stream.js
+:100644 100644 2739e309... a6c5563e... M	lib/dash/mpd_parser.js
+
+user:Joey Parrish
+1415234259
+:100644 100644 dfadc698... 7b9f52f8... M	app.js
+:100644 100644 29588e66... f3da0378... M	lib/player/player.js
+:000000 100644 00000000... 4c408427... A	lib/player/stats.js
+:000000 100644 00000000... c973e8d9... A	lib/polyfill/videoplaybackquality.js
+
+user:Joey Parrish
+1415234516
+:000000 100644 00000000... 611fabf7... A	assets/poster.jpg
+:000000 100644 00000000... d7bbbda9... A	assets/poster.license
+:100644 000000 d950cef4... 00000000... D	assets/poster.png
+:100644 100644 9a884efa... 03015227... M	index.html
+
+user:Joey Parrish
+1415292558
+:000000 100644 00000000... 7a15aeab... A	externs/videoplaybackquality.js
+
+user:Joey Parrish
+1415293479
+:100644 100644 ddce61b3... 7c954625... M	lib/player/dash_video_source.js
+:100644 100644 3d938320... 608ac4f8... M	lib/player/i_video_source.js
+:100644 100644 4c408427... 0ab630e4... M	lib/player/stats.js
+:100644 100644 97161498... 78b04cd2... M	lib/util/ewma_bandwidth_estimator.js
+:100644 100644 9eb6fbba... cebcf4ff... M	lib/util/i_bandwidth_estimator.js
+
+user:Joey Parrish
+1415391142
+:100644 100644 7b9f52f8... e4702ae0... M	app.js
+:100644 100644 06a3ce67... a40381e4... M	lib/debug/log.js
+:100644 100644 6b652db9... 9b0f9e3e... M	load.js
+
+user:Joey Parrish
+1415391142
+:100644 100644 e4702ae0... 20c43684... M	app.js
+:100644 100644 7c954625... d2897bc4... M	lib/player/dash_video_source.js
+
+user:Joey Parrish
+1415391143
+:100644 100644 2b41cf1c... b917679f... M	lib/util/ajax_request.js
+
+user:Timothy Drews
+1415730173
+:100644 100644 a6c5563e... 1d051cc5... M	lib/dash/mpd_parser.js
+:100644 100644 27d1fb65... 2b5afdba... M	spec/mpd_spec.js
+
+user:Timothy Drews
+1415814309
+:100644 100644 986ded9a... a1563a35... M	lib/dash/dash_stream.js
+:100644 100644 7b0e82e7... ca78ae5f... M	lib/dash/dash_text_stream.js
+:100644 100644 1d051cc5... c2181ea1... M	lib/dash/mpd_parser.js
+:100644 100644 f3778cd7... e2a99931... M	lib/dash/mpd_processor.js
+:000000 100644 00000000... 86780a52... A	spec/mpd_processor_spec.js
+:100644 100644 2b5afdba... 7039d80f... M	spec/mpd_spec.js
+:100644 100644 8d15313a... 4bde071c... M	spec_runner.html
+
+user:Timothy Drews
+1415902793
+:100644 100644 c2181ea1... 08563ff6... M	lib/dash/mpd_parser.js
+
+user:Joey Parrish
+1415925069
+:100644 000000 72fcb7f2... 00000000... D	jasmine/blanket_jasmine/blanket_jasmine.js
+:000000 100644 00000000... 72fcb7f2... A	jasmine/lib/blanket_jasmine/blanket_jasmine.js
+
+user:Joey Parrish
+1415925206
+:100644 100644 75e96fa4... fbbafd52... M	lib/polyfill/mediakeys.js
+
+user:Joey Parrish
+1415928614
+user:Joey Parrish
+1415928617
+user:Timothy Drews
+1415990953
+:100644 100644 a1563a35... ab90ce00... M	lib/dash/dash_stream.js
+:100644 100644 0dd30abf... d30c09a9... M	lib/dash/isobmff_segment_index_parser.js
+:100644 100644 08563ff6... 0b5c96aa... M	lib/dash/mpd_parser.js
+:100644 100644 e2a99931... c3fa23a2... M	lib/dash/mpd_processor.js
+:100644 100644 11986e3a... 0e0a2cda... M	lib/dash/segment_index.js
+:100644 100644 7fa9295e... 159ad5b1... M	lib/dash/segment_range.js
+:100644 100644 5df4d359... 43feaf17... M	lib/dash/segment_reference.js
+:100644 100644 797f3c0f... 9aaba5b7... M	lib/dash/webm_segment_index_parser.js
+
+user:Timothy Drews
+1415999601
+:100644 100644 c3fa23a2... 23d0baab... M	lib/dash/mpd_processor.js
+
+user:Timothy Drews
+1416004553
+:100644 100644 f3da0378... 0dea0e94... M	lib/player/player.js
+
+user:Timothy Drews
+1416010275
+:100644 100644 23d0baab... 2d489c42... M	lib/dash/mpd_processor.js
+
+user:Timothy Drews
+1416010809
+user:Joey Parrish
+1416013499
+:000000 100644 00000000... a9b48d77... A	lib/dash/abr_manager.js
+:100644 100644 ab90ce00... 92847583... M	lib/dash/dash_stream.js
+:100644 100644 ca78ae5f... 2b3cae8e... M	lib/dash/dash_text_stream.js
+:100644 100644 d960db15... 404ec15d... M	lib/dash/i_dash_stream.js
+:100644 100644 91341e30... cd3f6429... M	lib/dash/source_buffer_manager.js
+:100644 100644 d2897bc4... 6d14457a... M	lib/player/dash_video_source.js
+:100644 100644 06463e73... 2f610bd1... M	lib/player/http_video_source.js
+:100644 100644 608ac4f8... ec72f04b... M	lib/player/i_video_source.js
+:100644 100644 0dea0e94... 6ba900c5... M	lib/player/player.js
+:100644 100644 0ab630e4... ae2dc3af... M	lib/player/stats.js
+:100644 100644 78b04cd2... dc7600c2... M	lib/util/ewma_bandwidth_estimator.js
+
+user:Joey Parrish
+1416013499
+:100644 100644 6d14457a... d2d7a617... M	lib/player/dash_video_source.js
+
+user:Joey Parrish
+1416013499
+:100644 100644 20c43684... 84dde7b1... M	app.js
+:100644 100644 92847583... 66ef1736... M	lib/dash/dash_stream.js
+:100644 100644 d2d7a617... e6892f85... M	lib/player/dash_video_source.js
+
+user:Joey Parrish
+1416013499
+:100644 100644 84dde7b1... 3de2417e... M	app.js
+:100644 100644 03015227... c4ae0bd3... M	index.html
+
+user:Timothy Drews
+1416245716
+:100644 100644 66ef1736... f7eb7346... M	lib/dash/dash_stream.js
+:100644 100644 cd3f6429... 4871a82f... M	lib/dash/source_buffer_manager.js
+
+user:Joey Parrish
+1416253830
+:100644 100644 9be43447... 7c7f2699... M	.gitignore
+:100755 100755 866afe95... 90c00e12... M	build/gendeps.sh
+:100644 100644 6ebf289f... 3bc30003... M	build/lib.sh
+:100644 000000 c7006a88... 00000000... D	closure/compiler.jar
+:100755 000000 dfecc4bf... 00000000... D	closure/deps/depswriter.py
+:100644 000000 64e74858... 00000000... D	closure/deps/source.py
+:100644 000000 6694593a... 00000000... D	closure/deps/treescan.py
+:100644 000000 34983943... 00000000... D	closure/goog/base.js
+:100644 000000 130136e1... 00000000... D	closure/goog/uri/uri.js
+:100644 000000 2b9cfc35... 00000000... D	closure/goog/uri/utils.js
+:100644 000000 aff8ed47... 00000000... D	jasmine/MIT.LICENSE
+:100644 000000 72fcb7f2... 00000000... D	jasmine/lib/blanket_jasmine/blanket_jasmine.js
+:100644 000000 ec8baa0a... 00000000... D	jasmine/lib/jasmine-2.0.1/boot.js
+:100644 000000 c54f72da... 00000000... D	jasmine/lib/jasmine-2.0.1/console.js
+:100644 000000 9d959032... 00000000... D	jasmine/lib/jasmine-2.0.1/jasmine-html.js
+:100644 000000 c54ff305... 00000000... D	jasmine/lib/jasmine-2.0.1/jasmine.css
+:100644 000000 c943db1a... 00000000... D	jasmine/lib/jasmine-2.0.1/jasmine.js
+:100644 000000 3b84583b... 00000000... D	jasmine/lib/jasmine-2.0.1/jasmine_favicon.png
+:100644 000000 7cc57b5a... 00000000... D	jasmine/lib/jasmine-ajax-trunk/mock-ajax.js
+:100644 100644 9b0f9e3e... c2856528... M	load.js
+:100644 100644 4bde071c... 015e0082... M	spec_runner.html
+:000000 100644 00000000... 72fcb7f2... A	third_party/blanket_jasmine/blanket_jasmine.js
+:000000 100644 00000000... c7006a88... A	third_party/closure/compiler.jar
+:000000 100755 00000000... dfecc4bf... A	third_party/closure/deps/depswriter.py
+:000000 100644 00000000... 64e74858... A	third_party/closure/deps/source.py
+:000000 100644 00000000... 6694593a... A	third_party/closure/deps/treescan.py
+:000000 100644 00000000... 34983943... A	third_party/closure/goog/base.js
+:000000 100644 00000000... 130136e1... A	third_party/closure/goog/uri/uri.js
+:000000 100644 00000000... 2b9cfc35... A	third_party/closure/goog/uri/utils.js
+:000000 100644 00000000... aff8ed47... A	third_party/jasmine/MIT.LICENSE
+:000000 100644 00000000... ec8baa0a... A	third_party/jasmine/lib/jasmine-2.0.1/boot.js
+:000000 100644 00000000... c54f72da... A	third_party/jasmine/lib/jasmine-2.0.1/console.js
+:000000 100644 00000000... 9d959032... A	third_party/jasmine/lib/jasmine-2.0.1/jasmine-html.js
+:000000 100644 00000000... c54ff305... A	third_party/jasmine/lib/jasmine-2.0.1/jasmine.css
+:000000 100644 00000000... c943db1a... A	third_party/jasmine/lib/jasmine-2.0.1/jasmine.js
+:000000 100644 00000000... 3b84583b... A	third_party/jasmine/lib/jasmine-2.0.1/jasmine_favicon.png
+:000000 100644 00000000... 7cc57b5a... A	third_party/jasmine/lib/jasmine-ajax-trunk/mock-ajax.js
+
+user:Joey Parrish
+1416253830
+:000000 100644 00000000... df135046... A	third_party/jsdoc/.eslintignore
+:000000 100644 00000000... 3e57f227... A	third_party/jsdoc/.eslintrc
+:000000 100644 00000000... 28714ae3... A	third_party/jsdoc/.gitignore
+:000000 100644 00000000... aaa8ad0a... A	third_party/jsdoc/.npmignore
+:000000 100644 00000000... 32230bda... A	third_party/jsdoc/.travis.yml
+:000000 100644 00000000... d6456956... A	third_party/jsdoc/Apache_License_2.0.txt
+:000000 100644 00000000... 2ed19421... A	third_party/jsdoc/CONTRIBUTING.md
+:000000 100644 00000000... 01417b6b... A	third_party/jsdoc/LICENSE.md
+:000000 100644 00000000... d11b5ced... A	third_party/jsdoc/README.md
+:000000 100644 00000000... fc832d82... A	third_party/jsdoc/changes.md
+:000000 100644 00000000... 35ab99c7... A	third_party/jsdoc/cli.js
+:000000 100644 00000000... 12bff5bd... A	third_party/jsdoc/conf.json.EXAMPLE
+:000000 100644 00000000... e54c4689... A	third_party/jsdoc/gulpfile.js
+:000000 100755 00000000... 53c9c8f5... A	third_party/jsdoc/jsdoc
+:000000 100644 00000000... 20156cd8... A	third_party/jsdoc/jsdoc.cmd
+:000000 100755 00000000... 5ea476d4... A	third_party/jsdoc/jsdoc.js
+:000000 100644 00000000... 1f7ee133... A	third_party/jsdoc/lib/jsdoc/augment.js
+:000000 100644 00000000... 5c49882b... A	third_party/jsdoc/lib/jsdoc/borrow.js
+:000000 100644 00000000... ee09b684... A	third_party/jsdoc/lib/jsdoc/config.js
+:000000 100644 00000000... 0513db2d... A	third_party/jsdoc/lib/jsdoc/doclet.js
+:000000 100644 00000000... 4bb8966e... A	third_party/jsdoc/lib/jsdoc/fs.js
+:000000 100644 00000000... f2dc3f32... A	third_party/jsdoc/lib/jsdoc/name.js
+:000000 100644 00000000... dd23b588... A	third_party/jsdoc/lib/jsdoc/opts/argparser.js
+:000000 100644 00000000... 4748680d... A	third_party/jsdoc/lib/jsdoc/opts/args.js
+:000000 100644 00000000... 1a60a3b0... A	third_party/jsdoc/lib/jsdoc/package.js
+:000000 100644 00000000... 3b8b660c... A	third_party/jsdoc/lib/jsdoc/path.js
+:000000 100644 00000000... 92fb4947... A	third_party/jsdoc/lib/jsdoc/plugins.js
+:000000 100644 00000000... f24317ae... A	third_party/jsdoc/lib/jsdoc/readme.js
+:000000 100644 00000000... 07d71094... A	third_party/jsdoc/lib/jsdoc/schema.js
+:000000 100644 00000000... 504d6cdb... A	third_party/jsdoc/lib/jsdoc/src/astbuilder.js
+:000000 100644 00000000... 3eac7d52... A	third_party/jsdoc/lib/jsdoc/src/astnode.js
+:000000 100644 00000000... 135c4c4f... A	third_party/jsdoc/lib/jsdoc/src/filter.js
+:000000 100644 00000000... 6773e9b4... A	third_party/jsdoc/lib/jsdoc/src/handlers.js
+:000000 100644 00000000... aa357a12... A	third_party/jsdoc/lib/jsdoc/src/parser.js
+:000000 100644 00000000... a8170a71... A	third_party/jsdoc/lib/jsdoc/src/scanner.js
+:000000 100644 00000000... 3780129d... A	third_party/jsdoc/lib/jsdoc/src/syntax.js
+:000000 100644 00000000... 80e909e0... A	third_party/jsdoc/lib/jsdoc/src/visitor.js
+:000000 100644 00000000... 2407dc89... A	third_party/jsdoc/lib/jsdoc/src/walker.js
+:000000 100644 00000000... 27abc51f... A	third_party/jsdoc/lib/jsdoc/tag.js
+:000000 100644 00000000... 38b73798... A	third_party/jsdoc/lib/jsdoc/tag/dictionary.js
+:000000 100644 00000000... 7911c239... A	third_party/jsdoc/lib/jsdoc/tag/dictionary/definitions.js
+:000000 100644 00000000... e05c40f2... A	third_party/jsdoc/lib/jsdoc/tag/inline.js
+:000000 100644 00000000... 8597b2e8... A	third_party/jsdoc/lib/jsdoc/tag/type.js
+:000000 100644 00000000... 6a7f95bd... A	third_party/jsdoc/lib/jsdoc/tag/validator.js
+:000000 100644 00000000... 6c1d4dae... A	third_party/jsdoc/lib/jsdoc/template.js
+:000000 100644 00000000... 304b283c... A	third_party/jsdoc/lib/jsdoc/tutorial.js
+:000000 100644 00000000... 610405e1... A	third_party/jsdoc/lib/jsdoc/tutorial/resolver.js
+:000000 100644 00000000... ba0fea2f... A	third_party/jsdoc/lib/jsdoc/util/doop.js
+:000000 100644 00000000... 3e3f88de... A	third_party/jsdoc/lib/jsdoc/util/dumper.js
+:000000 100644 00000000... 6ed1895d... A	third_party/jsdoc/lib/jsdoc/util/error.js
+:000000 100644 00000000... 98f732e4... A	third_party/jsdoc/lib/jsdoc/util/logger.js
+:000000 100644 00000000... 4f2e198c... A	third_party/jsdoc/lib/jsdoc/util/markdown.js
+:000000 100644 00000000... 1a50a321... A	third_party/jsdoc/lib/jsdoc/util/runtime.js
+:000000 100644 00000000... 2c230527... A	third_party/jsdoc/lib/jsdoc/util/templateHelper.js
+:000000 100644 00000000... bf652f27... A	third_party/jsdoc/node/fs.js
+:000000 100644 00000000... b7f9d500... A	third_party/jsdoc/node_modules/async/LICENSE
+:000000 100644 00000000... 8e238453... A	third_party/jsdoc/node_modules/async/index.js
+:000000 100644 00000000... 7cc4f5ea... A	third_party/jsdoc/node_modules/async/lib/async.js
+:000000 100644 00000000... 1caad5bf... A	third_party/jsdoc/node_modules/async/package.json
+:000000 100644 00000000... 6fdbb085... A	third_party/jsdoc/node_modules/catharsis/LICENSE
+:000000 100644 00000000... 7899f3c2... A	third_party/jsdoc/node_modules/catharsis/catharsis.js
+:000000 100644 00000000... eeb777b0... A	third_party/jsdoc/node_modules/catharsis/lib/describe.js
+:000000 100644 00000000... dab624b4... A	third_party/jsdoc/node_modules/catharsis/lib/parser.js
+:000000 100644 00000000... c0ed0c3c... A	third_party/jsdoc/node_modules/catharsis/lib/schema.js
+:000000 100644 00000000... 905de2db... A	third_party/jsdoc/node_modules/catharsis/lib/stringify.js
+:000000 100644 00000000... 017aba6b... A	third_party/jsdoc/node_modules/catharsis/lib/types.js
+:000000 100644 00000000... 8e1f77b4... A	third_party/jsdoc/node_modules/catharsis/node_modules/underscore-contrib/LICENSE
+:000000 100644 00000000... 5d4bc175... A	third_party/jsdoc/node_modules/catharsis/node_modules/underscore-contrib/index.js
+:000000 100644 00000000... 53f932bc... A	third_party/jsdoc/node_modules/catharsis/node_modules/underscore-contrib/package.json
+:000000 100644 00000000... 2ad8c562... A	third_party/jsdoc/node_modules/catharsis/node_modules/underscore-contrib/underscore.array.builders.js
+:000000 100644 00000000... d03f2a54... A	third_party/jsdoc/node_modules/catharsis/node_modules/underscore-contrib/underscore.array.selectors.js
+:000000 100644 00000000... 963b146f... A	third_party/jsdoc/node_modules/catharsis/node_modules/underscore-contrib/underscore.collections.walk.js
+:000000 100644 00000000... 5f123d28... A	third_party/jsdoc/node_modules/catharsis/node_modules/underscore-contrib/underscore.function.arity.js
+:000000 100644 00000000... b4608996... A	third_party/jsdoc/node_modules/catharsis/node_modules/underscore-contrib/underscore.function.combinators.js
+:000000 100644 00000000... 9e0eab21... A	third_party/jsdoc/node_modules/catharsis/node_modules/underscore-contrib/underscore.function.dispatch.js
+:000000 100644 00000000... 9b5aed62... A	third_party/jsdoc/node_modules/catharsis/node_modules/underscore-contrib/underscore.function.iterators.js
+:000000 100644 00000000... 11e60ce3... A	third_party/jsdoc/node_modules/catharsis/node_modules/underscore-contrib/underscore.function.predicates.js
+:000000 100644 00000000... 278f0978... A	third_party/jsdoc/node_modules/catharsis/node_modules/underscore-contrib/underscore.object.builders.js
+:000000 100644 00000000... 17308eec... A	third_party/jsdoc/node_modules/catharsis/node_modules/underscore-contrib/underscore.object.selectors.js
+:000000 100644 00000000... 72b7f000... A	third_party/jsdoc/node_modules/catharsis/node_modules/underscore-contrib/underscore.util.existential.js
+:000000 100644 00000000... 23057165... A	third_party/jsdoc/node_modules/catharsis/node_modules/underscore-contrib/underscore.util.operators.js
+:000000 100644 00000000... 15c6eaf1... A	third_party/jsdoc/node_modules/catharsis/node_modules/underscore-contrib/underscore.util.strings.js
+:000000 100644 00000000... ce2a1bc7... A	third_party/jsdoc/node_modules/catharsis/node_modules/underscore-contrib/underscore.util.trampolines.js
+:000000 100644 00000000... 3e6ac226... A	third_party/jsdoc/node_modules/catharsis/package.json
+:000000 100644 00000000... 9afb501b... A	third_party/jsdoc/node_modules/catharsis/res/en.json
+:000000 100644 00000000... a6762ed4... A	third_party/jsdoc/node_modules/crypto-browserify/index.js
+:000000 100644 00000000... 99a6930c... A	third_party/jsdoc/node_modules/crypto-browserify/package.json
+:000000 100644 00000000... 2160788a... A	third_party/jsdoc/node_modules/crypto-browserify/rng.js
+:000000 100644 00000000... 4f9cc3e9... A	third_party/jsdoc/node_modules/crypto-browserify/sha.js
+:000000 100644 00000000... ac6572ca... A	third_party/jsdoc/node_modules/escape-string-regexp/index.js
+:000000 100644 00000000... 5da6f01d... A	third_party/jsdoc/node_modules/escape-string-regexp/package.json
+:000000 100644 00000000... 808a963a... A	third_party/jsdoc/node_modules/escape-string-regexp/readme.md
+:000000 100644 00000000... 5fa5d22f... A	third_party/jsdoc/node_modules/esprima/esprima.js
+:000000 100644 00000000... c4c1b815... A	third_party/jsdoc/node_modules/esprima/package.json
+:000000 100644 00000000... 1b76d2f6... A	third_party/jsdoc/node_modules/js2xmlparser/LICENSE.md
+:000000 100644 00000000... f96c97b6... A	third_party/jsdoc/node_modules/js2xmlparser/lib/js2xmlparser.js
+:000000 100644 00000000... a5a850fc... A	third_party/jsdoc/node_modules/js2xmlparser/package.json
+:000000 100644 00000000... a7b812ed... A	third_party/jsdoc/node_modules/marked/LICENSE
+:000000 100644 00000000... a12f9056... A	third_party/jsdoc/node_modules/marked/index.js
+:000000 100644 00000000... e2f08c99... A	third_party/jsdoc/node_modules/marked/lib/marked.js
+:000000 100644 00000000... bbea5341... A	third_party/jsdoc/node_modules/marked/package.json
+:000000 100644 00000000... c55dc5f2... A	third_party/jsdoc/node_modules/strip-json-comments/package.json
+:000000 100644 00000000... 2e7fdef2... A	third_party/jsdoc/node_modules/strip-json-comments/strip-json-comments.js
+:000000 100644 00000000... 52d14a3a... A	third_party/jsdoc/node_modules/taffydb/README.md
+:000000 100644 00000000... 1165f201... A	third_party/jsdoc/node_modules/taffydb/package.json
+:000000 100644 00000000... c4df78b4... A	third_party/jsdoc/node_modules/taffydb/taffy-test.html
+:000000 100644 00000000... b7ad88cd... A	third_party/jsdoc/node_modules/taffydb/taffy.js
+:000000 100644 00000000... f421228b... A	third_party/jsdoc/node_modules/tv4/LICENSE.txt
+:000000 100644 00000000... 66f263f0... A	third_party/jsdoc/node_modules/tv4/README.md
+:000000 100644 00000000... aeb9f12f... A	third_party/jsdoc/node_modules/tv4/lang/de.js
+:000000 100644 00000000... 922346c8... A	third_party/jsdoc/node_modules/tv4/package.json
+:000000 100644 00000000... 761f232a... A	third_party/jsdoc/node_modules/tv4/tv4.async-jquery.js
+:000000 100644 00000000... 37a36241... A	third_party/jsdoc/node_modules/tv4/tv4.js
+:000000 100644 00000000... 0d6b8739... A	third_party/jsdoc/node_modules/underscore/LICENSE
+:000000 100644 00000000... d561286b... A	third_party/jsdoc/node_modules/underscore/package.json
+:000000 100644 00000000... 9a4cabec... A	third_party/jsdoc/node_modules/underscore/underscore.js
+:000000 100644 00000000... a85a94a6... A	third_party/jsdoc/node_modules/wrench/LICENSE
+:000000 100644 00000000... 00f4166b... A	third_party/jsdoc/node_modules/wrench/lib/wrench.js
+:000000 100644 00000000... 80124ffe... A	third_party/jsdoc/node_modules/wrench/package.json
+:000000 100644 00000000... e64678ce... A	third_party/jsdoc/package.json
+:000000 100644 00000000... 64347e0d... A	third_party/jsdoc/plugins/commentConvert.js
+:000000 100644 00000000... a35e96f1... A	third_party/jsdoc/plugins/commentsOnly.js
+:000000 100644 00000000... d5874052... A	third_party/jsdoc/plugins/escapeHtml.js
+:000000 100644 00000000... 38ca8438... A	third_party/jsdoc/plugins/eventDumper.js
+:000000 100644 00000000... 91f918d8... A	third_party/jsdoc/plugins/markdown.js
+:000000 100644 00000000... 29c384d9... A	third_party/jsdoc/plugins/overloadHelper.js
+:000000 100644 00000000... 9b517157... A	third_party/jsdoc/plugins/partial.js
+:000000 100644 00000000... 270381c6... A	third_party/jsdoc/plugins/railsTemplate.js
+:000000 100644 00000000... 05c5d9f8... A	third_party/jsdoc/plugins/shout.js
+:000000 100644 00000000... c773283d... A	third_party/jsdoc/plugins/sourcetag.js
+:000000 100644 00000000... da72f738... A	third_party/jsdoc/plugins/summarize.js
+:000000 100644 00000000... a727d655... A	third_party/jsdoc/plugins/test/fixtures/markdown.js
+:000000 100644 00000000... 12c298c6... A	third_party/jsdoc/plugins/test/fixtures/overloadHelper.js
+:000000 100644 00000000... c3df6495... A	third_party/jsdoc/plugins/test/fixtures/railsTemplate.js.erb
+:000000 100644 00000000... dc29b80d... A	third_party/jsdoc/plugins/test/specs/commentConvert.js
+:000000 100644 00000000... 06989389... A	third_party/jsdoc/plugins/test/specs/escapeHtml.js
+:000000 100644 00000000... af3a0706... A	third_party/jsdoc/plugins/test/specs/markdown.js
+:000000 100644 00000000... 0538fa4c... A	third_party/jsdoc/plugins/test/specs/overloadHelper.js
+:000000 100644 00000000... feebd74a... A	third_party/jsdoc/plugins/test/specs/railsTemplate.js
+:000000 100644 00000000... 7b591843... A	third_party/jsdoc/plugins/test/specs/shout.js
+:000000 100644 00000000... 5c6568b1... A	third_party/jsdoc/plugins/test/specs/sourcetag.js
+:000000 100644 00000000... 9fb5ab80... A	third_party/jsdoc/plugins/test/specs/summarize.js
+:000000 100644 00000000... a612ad98... A	third_party/jsdoc/rhino/MPL_2.0.txt
+:000000 100644 00000000... 5c762d07... A	third_party/jsdoc/rhino/assert.js
+:000000 100644 00000000... 35e162b7... A	third_party/jsdoc/rhino/crypto.js
+:000000 100644 00000000... 488025a5... A	third_party/jsdoc/rhino/events.js
+:000000 100644 00000000... 8261e319... A	third_party/jsdoc/rhino/fs.js
+:000000 100644 00000000... 696a37d4... A	third_party/jsdoc/rhino/js.jar
+:000000 100644 00000000... 1d62560e... A	third_party/jsdoc/rhino/jsdoc/src/astbuilder.js
+:000000 100644 00000000... 1b1c05b2... A	third_party/jsdoc/rhino/jsdoc/src/parser.js
+:000000 100644 00000000... 0295f2df... A	third_party/jsdoc/rhino/jsdoc/src/visitor.js
+:000000 100644 00000000... e3d2b787... A	third_party/jsdoc/rhino/os.js
+:000000 100644 00000000... c4218f93... A	third_party/jsdoc/rhino/path.js
+:000000 100644 00000000... a24ec97f... A	third_party/jsdoc/rhino/querystring.js
+:000000 100644 00000000... 720202f9... A	third_party/jsdoc/rhino/rhino-shim.js
+:000000 100644 00000000... 3dc33113... A	third_party/jsdoc/rhino/util.js
+:000000 100644 00000000... 7424e741... A	third_party/jsdoc/templates/README.md
+:000000 100644 00000000... a7bd96bf... A	third_party/jsdoc/templates/default/README.md
+:000000 100644 00000000... dc43ec62... A	third_party/jsdoc/templates/default/publish.js
+:000000 100644 00000000... 5d20d916... A	third_party/jsdoc/templates/default/static/fonts/OpenSans-Bold-webfont.eot
+:000000 100644 00000000... 3ed7be4b... A	third_party/jsdoc/templates/default/static/fonts/OpenSans-Bold-webfont.svg
+:000000 100644 00000000... 1205787b... A	third_party/jsdoc/templates/default/static/fonts/OpenSans-Bold-webfont.woff
+:000000 100644 00000000... 1f639a15... A	third_party/jsdoc/templates/default/static/fonts/OpenSans-BoldItalic-webfont.eot
+:000000 100644 00000000... 6a2607b9... A	third_party/jsdoc/templates/default/static/fonts/OpenSans-BoldItalic-webfont.svg
+:000000 100644 00000000... ed760c06... A	third_party/jsdoc/templates/default/static/fonts/OpenSans-BoldItalic-webfont.woff
+:000000 100644 00000000... 0c8a0ae0... A	third_party/jsdoc/templates/default/static/fonts/OpenSans-Italic-webfont.eot
+:000000 100644 00000000... e1075dcc... A	third_party/jsdoc/templates/default/static/fonts/OpenSans-Italic-webfont.svg
+:000000 100644 00000000... ff652e64... A	third_party/jsdoc/templates/default/static/fonts/OpenSans-Italic-webfont.woff
+:000000 100644 00000000... 14868406... A	third_party/jsdoc/templates/default/static/fonts/OpenSans-Light-webfont.eot
+:000000 100644 00000000... 11a472ca... A	third_party/jsdoc/templates/default/static/fonts/OpenSans-Light-webfont.svg
+:000000 100644 00000000... e7860748... A	third_party/jsdoc/templates/default/static/fonts/OpenSans-Light-webfont.woff
+:000000 100644 00000000... 8f445929... A	third_party/jsdoc/templates/default/static/fonts/OpenSans-LightItalic-webfont.eot
+:000000 100644 00000000... 431d7e35... A	third_party/jsdoc/templates/default/static/fonts/OpenSans-LightItalic-webfont.svg
+:000000 100644 00000000... 43e8b9e6... A	third_party/jsdoc/templates/default/static/fonts/OpenSans-LightItalic-webfont.woff
+:000000 100644 00000000... 6bbc3cf5... A	third_party/jsdoc/templates/default/static/fonts/OpenSans-Regular-webfont.eot
+:000000 100644 00000000... 25a39523... A	third_party/jsdoc/templates/default/static/fonts/OpenSans-Regular-webfont.svg
+:000000 100644 00000000... e231183d... A	third_party/jsdoc/templates/default/static/fonts/OpenSans-Regular-webfont.woff
+:000000 100644 00000000... 8d52f7ea... A	third_party/jsdoc/templates/default/static/scripts/linenumber.js
+:000000 100644 00000000... d6456956... A	third_party/jsdoc/templates/default/static/scripts/prettify/Apache-License-2.0.txt
+:000000 100644 00000000... 041e1f59... A	third_party/jsdoc/templates/default/static/scripts/prettify/lang-css.js
+:000000 100644 00000000... eef5ad7e... A	third_party/jsdoc/templates/default/static/scripts/prettify/prettify.js
+:000000 100644 00000000... 6b23b17b... A	third_party/jsdoc/templates/default/static/styles/jsdoc-default.css
+:000000 100644 00000000... 5a2526e3... A	third_party/jsdoc/templates/default/static/styles/prettify-jsdoc.css
+:000000 100644 00000000... b6f92a78... A	third_party/jsdoc/templates/default/static/styles/prettify-tomorrow.css
+:000000 100644 00000000... 446d28aa... A	third_party/jsdoc/templates/default/tmpl/augments.tmpl
+:000000 100644 00000000... 7fb0fc87... A	third_party/jsdoc/templates/default/tmpl/container.tmpl
+:000000 100644 00000000... 0694d01b... A	third_party/jsdoc/templates/default/tmpl/details.tmpl
+:000000 100644 00000000... e87caa5b... A	third_party/jsdoc/templates/default/tmpl/example.tmpl
+:000000 100644 00000000... 04d975e9... A	third_party/jsdoc/templates/default/tmpl/examples.tmpl
+:000000 100644 00000000... 78c4e250... A	third_party/jsdoc/templates/default/tmpl/exceptions.tmpl
+:000000 100644 00000000... 92cd6eeb... A	third_party/jsdoc/templates/default/tmpl/layout.tmpl
+:000000 100644 00000000... 64e9e594... A	third_party/jsdoc/templates/default/tmpl/mainpage.tmpl
+:000000 100644 00000000... 0f99998e... A	third_party/jsdoc/templates/default/tmpl/members.tmpl
+:000000 100644 00000000... c0826630... A	third_party/jsdoc/templates/default/tmpl/method.tmpl
+:000000 100644 00000000... 66ab0459... A	third_party/jsdoc/templates/default/tmpl/params.tmpl
+:000000 100644 00000000... 40e09097... A	third_party/jsdoc/templates/default/tmpl/properties.tmpl
+:000000 100644 00000000... d0704592... A	third_party/jsdoc/templates/default/tmpl/returns.tmpl
+:000000 100644 00000000... e559b5d1... A	third_party/jsdoc/templates/default/tmpl/source.tmpl
+:000000 100644 00000000... 88a0ad52... A	third_party/jsdoc/templates/default/tmpl/tutorial.tmpl
+:000000 100644 00000000... ec2c6c0d... A	third_party/jsdoc/templates/default/tmpl/type.tmpl
+:000000 100644 00000000... ee6d36f1... A	third_party/jsdoc/templates/haruki/README.md
+:000000 100644 00000000... 657c8591... A	third_party/jsdoc/templates/haruki/publish.js
+:000000 100644 00000000... 46456226... A	third_party/jsdoc/test/README.md
+:000000 100644 00000000... d2388fa4... A	third_party/jsdoc/test/async-callback.js
+:000000 100644 00000000... a54db372... A	third_party/jsdoc/test/fixtures/abstracttag.js
+:000000 100644 00000000... 7d1d8b52... A	third_party/jsdoc/test/fixtures/accesstag.js
+:000000 100644 00000000... 924abb70... A	third_party/jsdoc/test/fixtures/alias.js
+:000000 100644 00000000... 6c54c0a5... A	third_party/jsdoc/test/fixtures/alias2.js
+:000000 100644 00000000... 673a82c2... A	third_party/jsdoc/test/fixtures/alias3.js
+:000000 100644 00000000... dbc41dac... A	third_party/jsdoc/test/fixtures/alias4.js
+:000000 100644 00000000... 0be1a61c... A	third_party/jsdoc/test/fixtures/aliasglobal.js
+:000000 100644 00000000... 00f6e8d0... A	third_party/jsdoc/test/fixtures/aliasglobal2.js
+:000000 100644 00000000... 8e9ec186... A	third_party/jsdoc/test/fixtures/aliasresolve.js
+:000000 100644 00000000... 4ff8b282... A	third_party/jsdoc/test/fixtures/aliasresolve2.js
+:000000 100644 00000000... 96a109ef... A	third_party/jsdoc/test/fixtures/also.js
+:000000 100644 00000000... 85abe4f6... A	third_party/jsdoc/test/fixtures/also2.js
+:000000 100644 00000000... b5e44181... A	third_party/jsdoc/test/fixtures/augmentstag.js
+:000000 100644 00000000... 8def33a9... A	third_party/jsdoc/test/fixtures/augmentstag2.js
+:000000 100644 00000000... 80851817... A	third_party/jsdoc/test/fixtures/augmentstag3.js
+:000000 100644 00000000... 3ead2752... A	third_party/jsdoc/test/fixtures/augmentstag4.js
+:000000 100644 00000000... dca225f1... A	third_party/jsdoc/test/fixtures/augmentstag5.js
+:000000 100644 00000000... 3bba0f0f... A	third_party/jsdoc/test/fixtures/authortag.js
+:000000 100644 00000000... 7a571ade... A	third_party/jsdoc/test/fixtures/borrowstag.js
+:000000 100644 00000000... 22a16435... A	third_party/jsdoc/test/fixtures/borrowstag2.js
+:000000 100644 00000000... 5dd468d5... A	third_party/jsdoc/test/fixtures/callbacktag.js
+:000000 100644 00000000... 707a79e6... A	third_party/jsdoc/test/fixtures/classdesctag.js
+:000000 100644 00000000... 1212b8b1... A	third_party/jsdoc/test/fixtures/classtag.js
+:000000 100644 00000000... 7e9e42e4... A	third_party/jsdoc/test/fixtures/classwithoutname.js
+:000000 100644 00000000... 3ca74aae... A	third_party/jsdoc/test/fixtures/constanttag.js
+:000000 100644 00000000... 275ef3c6... A	third_party/jsdoc/test/fixtures/constructortag.js
+:000000 100644 00000000... 9b78dba9... A	third_party/jsdoc/test/fixtures/constructstag.js
+:000000 100644 00000000... 92b06fd5... A	third_party/jsdoc/test/fixtures/constructstag2.js
+:000000 100644 00000000... c992ddee... A	third_party/jsdoc/test/fixtures/constructstag3.js
+:000000 100644 00000000... a14f8dd9... A	third_party/jsdoc/test/fixtures/constructstag4.js
+:000000 100644 00000000... caff0fe5... A	third_party/jsdoc/test/fixtures/constructstag5.js
+:000000 100644 00000000... b9eac48e... A	third_party/jsdoc/test/fixtures/copyrighttag.js
+:000000 100644 00000000... a4ec8488... A	third_party/jsdoc/test/fixtures/defaulttag.js
+:000000 100644 00000000... fed82082... A	third_party/jsdoc/test/fixtures/deprecatedtag.js
+:000000 100644 00000000... 78d9d05a... A	third_party/jsdoc/test/fixtures/descriptiontag.js
+:000000 100644 00000000... 2b13f928... A	third_party/jsdoc/test/fixtures/destructuring.js
+:000000 100644 00000000... ae7e4850... A	third_party/jsdoc/test/fixtures/doclet.js
+:000000 100644 00000000... 6ddd67ee... A	third_party/jsdoc/test/fixtures/emptycomments.js
+:000000 100644 00000000... 2374f09e... A	third_party/jsdoc/test/fixtures/enumtag.js
+:000000 100644 00000000... 2b0f9e63... A	third_party/jsdoc/test/fixtures/enumtag2.js
+:000000 100644 00000000... 355d2c47... A	third_party/jsdoc/test/fixtures/es6.js
+:000000 100644 00000000... 331eaf8c... A	third_party/jsdoc/test/fixtures/eventfirestag.js
+:000000 100644 00000000... b20f7530... A	third_party/jsdoc/test/fixtures/exampletag.js
+:000000 100644 00000000... d210638b... A	third_party/jsdoc/test/fixtures/exceptiontag.js
+:000000 100644 00000000... 21d11e76... A	third_party/jsdoc/test/fixtures/exports.js
+:000000 100644 00000000... e7eab024... A	third_party/jsdoc/test/fixtures/exportstag.js
+:000000 100644 00000000... 4b89f65a... A	third_party/jsdoc/test/fixtures/exportstag2.js
+:000000 100644 00000000... a26efd51... A	third_party/jsdoc/test/fixtures/exportstag3.js
+:000000 100644 00000000... 3097a565... A	third_party/jsdoc/test/fixtures/exportstag4.js
+:000000 100644 00000000... b2c5fc8e... A	third_party/jsdoc/test/fixtures/exportstag5.js
+:000000 100644 00000000... 18bca55e... A	third_party/jsdoc/test/fixtures/exportstag6.js
+:000000 100644 00000000... 8236f2c5... A	third_party/jsdoc/test/fixtures/exportstag7.js
+:000000 100644 00000000... 87b52aa6... A	third_party/jsdoc/test/fixtures/exportstag8.js
+:000000 100644 00000000... d68e05fb... A	third_party/jsdoc/test/fixtures/externaltag.js
+:000000 100644 00000000... 0099f0c1... A	third_party/jsdoc/test/fixtures/externaltag2.js
+:000000 100644 00000000... 4948c8eb... A	third_party/jsdoc/test/fixtures/externaltag3.js
+:000000 100644 00000000... e6d62cdc... A	third_party/jsdoc/test/fixtures/file.js
+:000000 100644 00000000... 924a659f... A	third_party/jsdoc/test/fixtures/funcExpression.js
+:000000 100644 00000000... 0223092a... A	third_party/jsdoc/test/fixtures/funcExpression2.js
+:000000 100644 00000000... 8f185816... A	third_party/jsdoc/test/fixtures/funcExpression3.js
+:000000 100644 00000000... 9783268f... A	third_party/jsdoc/test/fixtures/functiontag.js
+:000000 100644 00000000... 34a362f3... A	third_party/jsdoc/test/fixtures/getset.js
+:000000 100644 00000000... 935e7a13... A	third_party/jsdoc/test/fixtures/globaltag.js
+:000000 100644 00000000... 64b21e10... A	third_party/jsdoc/test/fixtures/ignoretag.js
+:000000 100644 00000000... 1769e744... A	third_party/jsdoc/test/fixtures/ignoretag2.js
+:000000 100644 00000000... 883d5f0b... A	third_party/jsdoc/test/fixtures/inlinecomment.js
+:000000 100644 00000000... 04ec2ca0... A	third_party/jsdoc/test/fixtures/inner.js
+:000000 100644 00000000... b9acc35f... A	third_party/jsdoc/test/fixtures/innerscope.js
+:000000 100644 00000000... 4b82f10e... A	third_party/jsdoc/test/fixtures/innerscope2.js
+:000000 100644 00000000... 58b9a3d2... A	third_party/jsdoc/test/fixtures/interface-implements.js
+:000000 100644 00000000... a80d9439... A	third_party/jsdoc/test/fixtures/jslangnames.js
+:000000 100644 00000000... 72c5682f... A	third_party/jsdoc/test/fixtures/kindtag.js
+:000000 100644 00000000... 0b838150... A	third_party/jsdoc/test/fixtures/lends.js
+:000000 100644 00000000... d2087512... A	third_party/jsdoc/test/fixtures/lends2.js
+:000000 100644 00000000... de42828c... A	third_party/jsdoc/test/fixtures/lends3.js
+:000000 100644 00000000... b3ffb759... A	third_party/jsdoc/test/fixtures/lends4.js
+:000000 100644 00000000... 846cd17a... A	third_party/jsdoc/test/fixtures/lends5.js
+:000000 100644 00000000... db6bb069... A	third_party/jsdoc/test/fixtures/lends6.js
+:000000 100644 00000000... 48a41761... A	third_party/jsdoc/test/fixtures/lendsglobal.js
+:000000 100644 00000000... 3cbf88fd... A	third_party/jsdoc/test/fixtures/letkeyword.js
+:000000 100644 00000000... e9d852f5... A	third_party/jsdoc/test/fixtures/licensetag.js
+:000000 100644 00000000... 6f23ff1f... A	third_party/jsdoc/test/fixtures/linktag.js
+:000000 100644 00000000... 2c72bdaf... A	third_party/jsdoc/test/fixtures/listenstag.js
+:000000 100644 00000000... 276aada8... A	third_party/jsdoc/test/fixtures/markdowntest.md
+:000000 100644 00000000... 33595c93... A	third_party/jsdoc/test/fixtures/memberoftag.js
+:000000 100644 00000000... 1f3d1480... A	third_party/jsdoc/test/fixtures/memberoftag2.js
+:000000 100644 00000000... a19f1357... A	third_party/jsdoc/test/fixtures/memberoftag3.js
+:000000 100644 00000000... 521343d8... A	third_party/jsdoc/test/fixtures/memberoftag4.js
+:000000 100644 00000000... d116bf5e... A	third_party/jsdoc/test/fixtures/memberoftagforced.js
+:000000 100644 00000000... 606b20ad... A	third_party/jsdoc/test/fixtures/membertag.js
+:000000 100644 00000000... 33845f9d... A	third_party/jsdoc/test/fixtures/mixintag.js
+:000000 100644 00000000... 8f067088... A	third_party/jsdoc/test/fixtures/moduleinner.js
+:000000 100644 00000000... c7a22803... A	third_party/jsdoc/test/fixtures/moduleisconstructor.js
+:000000 100644 00000000... 21c29bda... A	third_party/jsdoc/test/fixtures/moduleisfunction.js
+:000000 100644 00000000... a5de108f... A	third_party/jsdoc/test/fixtures/modules/data/mod-1.js
+:000000 100644 00000000... 1027fd9d... A	third_party/jsdoc/test/fixtures/modules/data/mod-2.js
+:000000 100644 00000000... 00c744f2... A	third_party/jsdoc/test/fixtures/modules/data/mod-3.js
+:000000 100644 00000000... fb4c4665... A	third_party/jsdoc/test/fixtures/moduletag.js
+:000000 100644 00000000... 0dd0bc3e... A	third_party/jsdoc/test/fixtures/moduletag2.js
+:000000 100644 00000000... 5cea89bb... A	third_party/jsdoc/test/fixtures/moduletag3.js
+:000000 100644 00000000... cbca4746... A	third_party/jsdoc/test/fixtures/moduletag4.js
+:000000 100644 00000000... ff5b957c... A	third_party/jsdoc/test/fixtures/moduletag5.js
+:000000 100644 00000000... da20b059... A	third_party/jsdoc/test/fixtures/namespacetag.js
+:000000 100644 00000000... fdf961ee... A	third_party/jsdoc/test/fixtures/nametag.js
+:000000 100644 00000000... f976cfb4... A	third_party/jsdoc/test/fixtures/objectlit.js
+:000000 100644 00000000... 072d4eda... A	third_party/jsdoc/test/fixtures/objectlit2.js
+:000000 100644 00000000... 10fb33ec... A	third_party/jsdoc/test/fixtures/objectlit3.js
+:000000 100644 00000000... abc611f2... A	third_party/jsdoc/test/fixtures/objectpropertykeys.js
+:000000 100644 00000000... 247fdc99... A	third_party/jsdoc/test/fixtures/paramtag.js
+:000000 100644 00000000... 7b5d3f97... A	third_party/jsdoc/test/fixtures/paramtag2.js
+:000000 100644 00000000... 2419d3f1... A	third_party/jsdoc/test/fixtures/paramtaginvalidtype.js
+:000000 100644 00000000... d71e6e9d... A	third_party/jsdoc/test/fixtures/plugins.js
+:000000 100644 00000000... e25b598c... A	third_party/jsdoc/test/fixtures/privatetag.js
+:000000 100644 00000000... f41b893a... A	third_party/jsdoc/test/fixtures/privatetag2.js
+:000000 100644 00000000... b00c8e2c... A	third_party/jsdoc/test/fixtures/projecttag.js
+:000000 100644 00000000... 6448182e... A	third_party/jsdoc/test/fixtures/propertytag.js
+:000000 100644 00000000... 68744ba0... A	third_party/jsdoc/test/fixtures/protectedtag.js
+:000000 100644 00000000... a67e0a81... A	third_party/jsdoc/test/fixtures/protectedtag2.js
+:000000 100644 00000000... de907eaf... A	third_party/jsdoc/test/fixtures/quotename.js
+:000000 100644 00000000... dd383f1b... A	third_party/jsdoc/test/fixtures/quotename2.js
+:000000 100644 00000000... 9495617f... A	third_party/jsdoc/test/fixtures/readonlytag.js
+:000000 100644 00000000... 49b626fe... A	third_party/jsdoc/test/fixtures/requirestag.js
+:000000 100644 00000000... 7c6d4535... A	third_party/jsdoc/test/fixtures/returnstag.js
+:000000 100644 00000000... 1eeeb204... A	third_party/jsdoc/test/fixtures/scopetags.js
+:000000 100644 00000000... b439c261... A	third_party/jsdoc/test/fixtures/seetag.js
+:000000 100644 00000000... 890ffb0f... A	third_party/jsdoc/test/fixtures/sincetag.js
+:000000 100644 00000000... d775a0b1... A	third_party/jsdoc/test/fixtures/specialnames.js
+:000000 100644 00000000... e69de29b... A	third_party/jsdoc/test/fixtures/src/_dir2/four.js
+:000000 100644 00000000... e69de29b... A	third_party/jsdoc/test/fixtures/src/_ignored.js
+:000000 100644 00000000... e69de29b... A	third_party/jsdoc/test/fixtures/src/dir1/three.js
+:000000 100644 00000000... e69de29b... A	third_party/jsdoc/test/fixtures/src/ignored.txt
+:000000 100644 00000000... e69de29b... A	third_party/jsdoc/test/fixtures/src/one.js
+:000000 100644 00000000... e69de29b... A	third_party/jsdoc/test/fixtures/src/two.js
+:000000 100644 00000000... 262da969... A	third_party/jsdoc/test/fixtures/starbangstar.js
+:000000 100644 00000000... b1f4c496... A	third_party/jsdoc/test/fixtures/summarytag.js
+:000000 100644 00000000... 282397c3... A	third_party/jsdoc/test/fixtures/testPlugin1.js
+:000000 100644 00000000... 441bc3d5... A	third_party/jsdoc/test/fixtures/testPlugin2.js
+:000000 100644 00000000... 66b22fe5... A	third_party/jsdoc/test/fixtures/this-and-objectlit.js
+:000000 100644 00000000... 7c167606... A	third_party/jsdoc/test/fixtures/this.js
+:000000 100644 00000000... d443ed9c... A	third_party/jsdoc/test/fixtures/this2.js
+:000000 100644 00000000... f78279bd... A	third_party/jsdoc/test/fixtures/this3.js
+:000000 100644 00000000... 1ea79253... A	third_party/jsdoc/test/fixtures/thistag.js
+:000000 100644 00000000... 5ecfac4b... A	third_party/jsdoc/test/fixtures/todotag.js
+:000000 100644 00000000... b0124dbe... A	third_party/jsdoc/test/fixtures/tutorialtag.js
+:000000 100644 00000000... 6b3512f1... A	third_party/jsdoc/test/fixtures/typedeftag.js
+:000000 100644 00000000... 46d6c1eb... A	third_party/jsdoc/test/fixtures/typekind.js
+:000000 100644 00000000... 12300eed... A	third_party/jsdoc/test/fixtures/typetag.js
+:000000 100644 00000000... 25790895... A	third_party/jsdoc/test/fixtures/typetag2.js
+:000000 100644 00000000... a7637761... A	third_party/jsdoc/test/fixtures/typetaginline.js
+:000000 100644 00000000... 88a12f18... A	third_party/jsdoc/test/fixtures/typetagwithnewline.js
+:000000 100644 00000000... 01ab4fc3... A	third_party/jsdoc/test/fixtures/undocumentedtag.js
+:000000 100644 00000000... ec6eea74... A	third_party/jsdoc/test/fixtures/utf8.js
+:000000 100644 00000000... 30be5e82... A	third_party/jsdoc/test/fixtures/var.js
+:000000 100644 00000000... 68f49110... A	third_party/jsdoc/test/fixtures/variations.js
+:000000 100644 00000000... 2105c463... A	third_party/jsdoc/test/fixtures/variations2.js
+:000000 100644 00000000... 0b3fdfc4... A	third_party/jsdoc/test/fixtures/variations3.js
+:000000 100644 00000000... c16dad66... A	third_party/jsdoc/test/fixtures/versiontag.js
+:000000 100644 00000000... 4eb25c1d... A	third_party/jsdoc/test/fixtures/virtual.js
+:000000 100644 00000000... 329b2ab3... A	third_party/jsdoc/test/fixtures/virtual2.js
+:000000 100644 00000000... 9be56164... A	third_party/jsdoc/test/fixtures/virtual3.js
+:000000 100644 00000000... ecf0a6ac... A	third_party/jsdoc/test/jasmine-jsdoc.js
+:000000 100644 00000000... a261473d... A	third_party/jsdoc/test/lib/jasmine.js
+:000000 100644 00000000... b4d0ca06... A	third_party/jsdoc/test/reporter.js
+:000000 100644 00000000... bd65b47d... A	third_party/jsdoc/test/runner.js
+:000000 100644 00000000... 493d9090... A	third_party/jsdoc/test/spec-collection.js
+:000000 100644 00000000... ce84f59d... A	third_party/jsdoc/test/specs/documentation/alias.js
+:000000 100644 00000000... 5afc5783... A	third_party/jsdoc/test/specs/documentation/also.js
+:000000 100644 00000000... d8e14412... A	third_party/jsdoc/test/specs/documentation/callback.js
+:000000 100644 00000000... 844ddbac... A	third_party/jsdoc/test/specs/documentation/classwithoutname.js
+:000000 100644 00000000... 6747f1ad... A	third_party/jsdoc/test/specs/documentation/emptycomments.js
+:000000 100644 00000000... eec64597... A	third_party/jsdoc/test/specs/documentation/exports.js
+:000000 100644 00000000... 7cb29eec... A	third_party/jsdoc/test/specs/documentation/funcExpression.js
+:000000 100644 00000000... a73773ce... A	third_party/jsdoc/test/specs/documentation/getset.js
+:000000 100644 00000000... d2692ec1... A	third_party/jsdoc/test/specs/documentation/inlinecomment.js
+:000000 100644 00000000... d69594ea... A	third_party/jsdoc/test/specs/documentation/inner.js
+:000000 100644 00000000... 41526ae0... A	third_party/jsdoc/test/specs/documentation/innerscope.js
+:000000 100644 00000000... 85253c80... A	third_party/jsdoc/test/specs/documentation/lends.js
+:000000 100644 00000000... 43d12063... A	third_party/jsdoc/test/specs/documentation/letkeyword.js
+:000000 100644 00000000... 1a783c96... A	third_party/jsdoc/test/specs/documentation/moduleinner.js
+:000000 100644 00000000... 45a1ac0b... A	third_party/jsdoc/test/specs/documentation/moduleisconstructor.js
+:000000 100644 00000000... 1aeb783d... A	third_party/jsdoc/test/specs/documentation/moduleisfunction.js
+:000000 100644 00000000... fd61cda7... A	third_party/jsdoc/test/specs/documentation/modules.js
+:000000 100644 00000000... 39bca2f1... A	third_party/jsdoc/test/specs/documentation/objectlit.js
+:000000 100644 00000000... 0cb39e22... A	third_party/jsdoc/test/specs/documentation/objectpropertykeys.js
+:000000 100644 00000000... 16b24f57... A	third_party/jsdoc/test/specs/documentation/quotename.js
+:000000 100644 00000000... f6d8b62b... A	third_party/jsdoc/test/specs/documentation/specialnames.js
+:000000 100644 00000000... 0a875bb4... A	third_party/jsdoc/test/specs/documentation/starbangstar.js
+:000000 100644 00000000... 6393dba4... A	third_party/jsdoc/test/specs/documentation/this.js
+:000000 100644 00000000... 2b1aec49... A	third_party/jsdoc/test/specs/documentation/typetaginline.js
+:000000 100644 00000000... f1198e97... A	third_party/jsdoc/test/specs/documentation/typetagwithnewline.js
+:000000 100644 00000000... 4417435b... A	third_party/jsdoc/test/specs/documentation/var.js
+:000000 100644 00000000... 3bf133c8... A	third_party/jsdoc/test/specs/documentation/variations.js
+:000000 100644 00000000... 0e55bb7c... A	third_party/jsdoc/test/specs/documentation/virtual.js
+:000000 100644 00000000... 7b2daf92... A	third_party/jsdoc/test/specs/jsdoc/augment.js
+:000000 100644 00000000... 4085d9b1... A	third_party/jsdoc/test/specs/jsdoc/borrow.js
+:000000 100644 00000000... 1ea42dbd... A	third_party/jsdoc/test/specs/jsdoc/config.js
+:000000 100644 00000000... edbbc5a2... A	third_party/jsdoc/test/specs/jsdoc/doclet.js
+:000000 100644 00000000... e20e86d2... A	third_party/jsdoc/test/specs/jsdoc/name.js
+:000000 100644 00000000... 3156a185... A	third_party/jsdoc/test/specs/jsdoc/opts/argparser.js
+:000000 100644 00000000... 16cd77ba... A	third_party/jsdoc/test/specs/jsdoc/opts/args.js
+:000000 100644 00000000... 090cef65... A	third_party/jsdoc/test/specs/jsdoc/package.js
+:000000 100644 00000000... 24ed9aeb... A	third_party/jsdoc/test/specs/jsdoc/path.js
+:000000 100644 00000000... d634ddab... A	third_party/jsdoc/test/specs/jsdoc/plugins.js
+:000000 100644 00000000... 51af2f75... A	third_party/jsdoc/test/specs/jsdoc/readme.js
+:000000 100644 00000000... 8f52d875... A	third_party/jsdoc/test/specs/jsdoc/schema.js
+:000000 100644 00000000... 9d639213... A	third_party/jsdoc/test/specs/jsdoc/src/astbuilder.js
+:000000 100644 00000000... 7f17ed60... A	third_party/jsdoc/test/specs/jsdoc/src/astnode.js
+:000000 100644 00000000... a6104ab9... A	third_party/jsdoc/test/specs/jsdoc/src/filter.js
+:000000 100644 00000000... d1d42d62... A	third_party/jsdoc/test/specs/jsdoc/src/handlers.js
+:000000 100644 00000000... 405d4464... A	third_party/jsdoc/test/specs/jsdoc/src/parser.js
+:000000 100644 00000000... ed184c90... A	third_party/jsdoc/test/specs/jsdoc/src/scanner.js
+:000000 100644 00000000... d1411376... A	third_party/jsdoc/test/specs/jsdoc/src/syntax.js
+:000000 100644 00000000... 4c5d2938... A	third_party/jsdoc/test/specs/jsdoc/src/visitor.js
+:000000 100644 00000000... be7528c2... A	third_party/jsdoc/test/specs/jsdoc/src/walker.js
+:000000 100644 00000000... f3dfea2d... A	third_party/jsdoc/test/specs/jsdoc/tag.js
+:000000 100644 00000000... c8158176... A	third_party/jsdoc/test/specs/jsdoc/tag/dictionary.js
+:000000 100644 00000000... fb1b57fd... A	third_party/jsdoc/test/specs/jsdoc/tag/dictionary/definitions.js
+:000000 100644 00000000... 3670ae54... A	third_party/jsdoc/test/specs/jsdoc/tag/inline.js
+:000000 100644 00000000... 4add5b00... A	third_party/jsdoc/test/specs/jsdoc/tag/type.js
+:000000 100644 00000000... 2e399945... A	third_party/jsdoc/test/specs/jsdoc/tag/validator.js
+:000000 100644 00000000... 97dedb3c... A	third_party/jsdoc/test/specs/jsdoc/template.js
+:000000 100644 00000000... 0ab8d98a... A	third_party/jsdoc/test/specs/jsdoc/tutorial.js
+:000000 100644 00000000... cea68eee... A	third_party/jsdoc/test/specs/jsdoc/tutorial/resolver.js
+:000000 100644 00000000... ebff9d9f... A	third_party/jsdoc/test/specs/jsdoc/util/doop.js
+:000000 100644 00000000... e08d25c8... A	third_party/jsdoc/test/specs/jsdoc/util/dumper.js
+:000000 100644 00000000... 1d21b5f3... A	third_party/jsdoc/test/specs/jsdoc/util/error.js
+:000000 100644 00000000... f335a25f... A	third_party/jsdoc/test/specs/jsdoc/util/logger.js
+:000000 100644 00000000... 70062ed6... A	third_party/jsdoc/test/specs/jsdoc/util/markdown.js
+:000000 100644 00000000... 2efb1a81... A	third_party/jsdoc/test/specs/jsdoc/util/runtime.js
+:000000 100644 00000000... c4586b10... A	third_party/jsdoc/test/specs/jsdoc/util/templateHelper.js
+:000000 100644 00000000... 82eb3e37... A	third_party/jsdoc/test/specs/plugins/plugins.js
+:000000 100644 00000000... 3e45a658... A	third_party/jsdoc/test/specs/rhino/fs.js
+:000000 100644 00000000... 653e6b59... A	third_party/jsdoc/test/specs/rhino/os.js
+:000000 100644 00000000... cf21795d... A	third_party/jsdoc/test/specs/rhino/path.js
+:000000 100644 00000000... c47a4889... A	third_party/jsdoc/test/specs/rhino/src/parser.js
+:000000 100644 00000000... ea71084d... A	third_party/jsdoc/test/specs/rhino/src/visitor.js
+:000000 100644 00000000... be2b7862... A	third_party/jsdoc/test/specs/tags/abstracttag.js
+:000000 100644 00000000... 3bfa3973... A	third_party/jsdoc/test/specs/tags/accesstag.js
+:000000 100644 00000000... 4b2396ef... A	third_party/jsdoc/test/specs/tags/aliastag.js
+:000000 100644 00000000... 81921216... A	third_party/jsdoc/test/specs/tags/augmentstag.js
+:000000 100644 00000000... 1a84b336... A	third_party/jsdoc/test/specs/tags/authortag.js
+:000000 100644 00000000... 4a6fdf57... A	third_party/jsdoc/test/specs/tags/borrowstag.js
+:000000 100644 00000000... 2a369cf1... A	third_party/jsdoc/test/specs/tags/classdesctag.js
+:000000 100644 00000000... 0a28a54d... A	third_party/jsdoc/test/specs/tags/classtag.js
+:000000 100644 00000000... 7c33c0b5... A	third_party/jsdoc/test/specs/tags/constanttag.js
+:000000 100644 00000000... dd2bedad... A	third_party/jsdoc/test/specs/tags/constructortag.js
+:000000 100644 00000000... a7198a4c... A	third_party/jsdoc/test/specs/tags/constructstag.js
+:000000 100644 00000000... c9c7a5f1... A	third_party/jsdoc/test/specs/tags/copyrighttag.js
+:000000 100644 00000000... 50f529ae... A	third_party/jsdoc/test/specs/tags/defaulttag.js
+:000000 100644 00000000... 0e60ce29... A	third_party/jsdoc/test/specs/tags/deprecatedtag.js
+:000000 100644 00000000... 855280dc... A	third_party/jsdoc/test/specs/tags/descriptiontag.js
+:000000 100644 00000000... d588e5a6... A	third_party/jsdoc/test/specs/tags/enumtag.js
+:000000 100644 00000000... 55d86f4a... A	third_party/jsdoc/test/specs/tags/eventfirestag.js
+:000000 100644 00000000... 6e817177... A	third_party/jsdoc/test/specs/tags/exampletag.js
+:000000 100644 00000000... e0119fc5... A	third_party/jsdoc/test/specs/tags/exceptiontag.js
+:000000 100644 00000000... 00feb54c... A	third_party/jsdoc/test/specs/tags/exportstag.js
+:000000 100644 00000000... 8b02dd86... A	third_party/jsdoc/test/specs/tags/externaltag.js
+:000000 100644 00000000... df63f6b9... A	third_party/jsdoc/test/specs/tags/functiontag.js
+:000000 100644 00000000... 3aeb34d8... A	third_party/jsdoc/test/specs/tags/globaltag.js
+:000000 100644 00000000... 8536143c... A	third_party/jsdoc/test/specs/tags/ignoretag.js
+:000000 100644 00000000... 0a584aa9... A	third_party/jsdoc/test/specs/tags/implementstag.js
+:000000 100644 00000000... fb20b5d5... A	third_party/jsdoc/test/specs/tags/interfacetag.js
+:000000 100644 00000000... 49d9cd5d... A	third_party/jsdoc/test/specs/tags/kindtag.js
+:000000 100644 00000000... 0f4a685d... A	third_party/jsdoc/test/specs/tags/lendstag.js
+:000000 100644 00000000... e37b1c63... A	third_party/jsdoc/test/specs/tags/licensetag.js
+:000000 100644 00000000... b2006804... A	third_party/jsdoc/test/specs/tags/listenstag.js
+:000000 100644 00000000... 0d43efa1... A	third_party/jsdoc/test/specs/tags/memberoftag.js
+:000000 100644 00000000... 2b311f14... A	third_party/jsdoc/test/specs/tags/membertag.js
+:000000 100644 00000000... 6bb4f827... A	third_party/jsdoc/test/specs/tags/mixestag.js
+:000000 100644 00000000... 4c928fb2... A	third_party/jsdoc/test/specs/tags/mixintag.js
+:000000 100644 00000000... 08075f37... A	third_party/jsdoc/test/specs/tags/moduletag.js
+:000000 100644 00000000... 751b4ce8... A	third_party/jsdoc/test/specs/tags/namespacetag.js
+:000000 100644 00000000... ab769af1... A	third_party/jsdoc/test/specs/tags/nametag.js
+:000000 100644 00000000... 1d3568a8... A	third_party/jsdoc/test/specs/tags/overviewtag.js
+:000000 100644 00000000... 7953735d... A	third_party/jsdoc/test/specs/tags/paramtag.js
+:000000 100644 00000000... 059f1af3... A	third_party/jsdoc/test/specs/tags/privatetag.js
+:000000 100644 00000000... 3fe20ac4... A	third_party/jsdoc/test/specs/tags/propertytag.js
+:000000 100644 00000000... b904a97f... A	third_party/jsdoc/test/specs/tags/protectedtag.js
+:000000 100644 00000000... 8465cb80... A	third_party/jsdoc/test/specs/tags/readonlytag.js
+:000000 100644 00000000... f6bcf7ac... A	third_party/jsdoc/test/specs/tags/requirestag.js
+:000000 100644 00000000... fdf61321... A	third_party/jsdoc/test/specs/tags/returnstag.js
+:000000 100644 00000000... 0b18a58c... A	third_party/jsdoc/test/specs/tags/scopetags.js
+:000000 100644 00000000... d6228a59... A	third_party/jsdoc/test/specs/tags/seetag.js
+:000000 100644 00000000... 91ab3d83... A	third_party/jsdoc/test/specs/tags/sincetag.js
+:000000 100644 00000000... f2487442... A	third_party/jsdoc/test/specs/tags/summarytag.js
+:000000 100644 00000000... 5fac4ae6... A	third_party/jsdoc/test/specs/tags/thistag.js
+:000000 100644 00000000... 410bb55f... A	third_party/jsdoc/test/specs/tags/todotag.js
+:000000 100644 00000000... ebb034b3... A	third_party/jsdoc/test/specs/tags/tutorialtag.js
+:000000 100644 00000000... aa65fea5... A	third_party/jsdoc/test/specs/tags/typedeftag.js
+:000000 100644 00000000... aea60db0... A	third_party/jsdoc/test/specs/tags/typekind.js
+:000000 100644 00000000... 2a863d81... A	third_party/jsdoc/test/specs/tags/typetag.js
+:000000 100644 00000000... daf14a53... A	third_party/jsdoc/test/specs/tags/undocumentedtag.js
+:000000 100644 00000000... 1b50ada2... A	third_party/jsdoc/test/specs/tags/versiontag.js
+:000000 100755 00000000... 8937f26d... A	third_party/jsdoc/test/tutorials/build.sh
+:000000 100644 00000000... 1f8a6622... A	third_party/jsdoc/test/tutorials/duplicateDefined/asdf.html
+:000000 100644 00000000... c769dc54... A	third_party/jsdoc/test/tutorials/duplicateDefined/asdf.json
+:000000 100644 00000000... 9ceb182f... A	third_party/jsdoc/test/tutorials/duplicateDefined/index.json
+:000000 100644 00000000... aa4a4ff9... A	third_party/jsdoc/test/tutorials/incomplete/parent.html
+:000000 100644 00000000... f2e4765a... A	third_party/jsdoc/test/tutorials/incomplete/parent.json
+:000000 100644 00000000... 987f8f98... A	third_party/jsdoc/test/tutorials/src/x.js
+:000000 100644 00000000... 2f181f08... A	third_party/jsdoc/test/tutorials/tutorials/constructor.md
+:000000 100644 00000000... 994d8655... A	third_party/jsdoc/test/tutorials/tutorials/multiple.json
+:000000 100644 00000000... d87c0708... A	third_party/jsdoc/test/tutorials/tutorials/recursive/test_recursive.md
+:000000 100644 00000000... aa4a4ff9... A	third_party/jsdoc/test/tutorials/tutorials/test.html
+:000000 100644 00000000... d894f21e... A	third_party/jsdoc/test/tutorials/tutorials/test.json
+:000000 100644 00000000... 09510c03... A	third_party/jsdoc/test/tutorials/tutorials/test2.markdown
+:000000 100644 00000000... 8eac0524... A	third_party/jsdoc/test/tutorials/tutorials/test3.htm
+:000000 100644 00000000... 0be836ad... A	third_party/jsdoc/test/tutorials/tutorials/test4.md
+:000000 100644 00000000... 1769f0de... A	third_party/jsdoc/test/tutorials/tutorials/test5.txt
+:000000 100644 00000000... 1c489be3... A	third_party/jsdoc/test/tutorials/tutorials/test6.xml
+
+user:Joey Parrish
+1416253830
+:100644 100644 7c7f2699... b3dea47e... M	.gitignore
+:000000 100755 00000000... 75cee07f... A	build/docs.sh
+:000000 100644 00000000... ee4e322b... A	jsdoc.conf.json
+
+user:Joey Parrish
+1416257717
+user:Joey Parrish
+1416257892
+user:Joey Parrish
+1416257904
+user:Joey Parrish
+1416260598
+:100644 100644 dc43ec62... 34a649f3... M	third_party/jsdoc/templates/default/publish.js
+:100644 100644 7fb0fc87... 47693a1e... M	third_party/jsdoc/templates/default/tmpl/container.tmpl
+
+user:Joey Parrish
+1416260598
+:100644 100644 47693a1e... fa0b9c0b... M	third_party/jsdoc/templates/default/tmpl/container.tmpl
+:100644 100644 0694d01b... aa5ab982... M	third_party/jsdoc/templates/default/tmpl/details.tmpl
+
+user:Joey Parrish
+1416260598
+:100644 100644 1f7ee133... c08ad637... M	third_party/jsdoc/lib/jsdoc/augment.js
+
+user:Joey Parrish
+1416260598
+:100644 100644 8597b2e8... 802c2897... M	third_party/jsdoc/lib/jsdoc/tag/type.js
+
+user:Joey Parrish
+1416260598
+:100644 100644 7911c239... c597a208... M	third_party/jsdoc/lib/jsdoc/tag/dictionary/definitions.js
+:100644 100644 34a649f3... a806ea55... M	third_party/jsdoc/templates/default/publish.js
+:000000 100644 00000000... dcae53b9... A	third_party/jsdoc/templates/default/static/scripts/toggle.js
+:100644 100644 6b23b17b... 197687a0... M	third_party/jsdoc/templates/default/static/styles/jsdoc-default.css
+:100644 100644 92cd6eeb... 4ef2273c... M	third_party/jsdoc/templates/default/tmpl/layout.tmpl
+:100644 100644 0f99998e... 2f0b4ac0... M	third_party/jsdoc/templates/default/tmpl/members.tmpl
+:100644 100644 c0826630... ea1fb4cc... M	third_party/jsdoc/templates/default/tmpl/method.tmpl
+
+user:Joey Parrish
+1416260598
+:100644 100644 051006e3... 4e15d855... M	lib/player/text_track.js
+:100644 100644 41081b33... 8c35e2f2... M	lib/util/fake_event_target.js
+:100644 100644 032d04f2... 822a1b3c... M	lib/util/public_promise.js
+
+user:Joey Parrish
+1416260598
+:000000 100644 00000000... e7e65d42... A	third_party/SUMMARY.txt
+:000000 100644 00000000... 52a24455... A	third_party/blanket_jasmine/LICENSE.txt
+:000000 100644 00000000... d6456956... A	third_party/closure/LICENSE.txt
+:000000 100644 00000000... aff8ed47... A	third_party/jasmine/LICENSE.txt
+:100644 000000 aff8ed47... 00000000... D	third_party/jasmine/MIT.LICENSE
+:100644 000000 d6456956... 00000000... D	third_party/jsdoc/Apache_License_2.0.txt
+:000000 100644 00000000... d6456956... A	third_party/jsdoc/LICENSE.txt
+
+user:Timothy Drews
+1416263861
+:100644 100644 a9b48d77... fbe9b27d... M	lib/dash/abr_manager.js
+:100644 100644 e6892f85... cb88d043... M	lib/player/dash_video_source.js
+
+user:Timothy Drews
+1416266642
+:000000 100644 00000000... 8c52da87... A	assets/feelings_audio_only-20130806-manifest.mpd
+:100644 100644 c4ae0bd3... 1fa9399c... M	index.html
+
+user:Timothy Drews
+1416270712
+:100644 100644 f7eb7346... cecdf24e... M	lib/dash/dash_stream.js
+:100644 100644 2d489c42... a780b7e4... M	lib/dash/mpd_processor.js
+
+user:Joey Parrish
+1416417234
+:100644 100644 1fa9399c... bdcde956... M	index.html
+
+user:Joey Parrish
+1416417234
+:100644 100644 a806ea55... 5bb5a820... M	third_party/jsdoc/templates/default/publish.js
+
+user:Joey Parrish
+1416417234
+:100644 100644 a780b7e4... b0309e48... M	lib/dash/mpd_processor.js
+:100644 100644 cb88d043... 06320d5d... M	lib/player/dash_video_source.js
+
+user:Joey Parrish
+1416417234
+:100644 100644 6ba900c5... d38f0e25... M	lib/player/player.js
+
+user:Joey Parrish
+1416417234
+:100644 100644 dc7600c2... bd5ecfb7... M	lib/util/ewma_bandwidth_estimator.js
+
+user:Joey Parrish
+1416417234
+:100644 100644 d38f0e25... dc4aa071... M	lib/player/player.js
+:100644 100644 ae2dc3af... 93333b73... M	lib/player/stats.js
+
+user:Joey Parrish
+1416419716
+:100644 100644 cecdf24e... a71df6a7... M	lib/dash/dash_stream.js
+
+user:Natalie Harris
+1416425166
+:100644 100644 0e0a2cda... 5b8c4ce9... M	lib/dash/segment_index.js
+:100644 100644 f2cf19c9... d8f96964... M	spec/segment_index_spec.js
+
+user:Timothy Drews
+1416435606
+:100644 100644 b0309e48... 54d14e42... M	lib/dash/mpd_processor.js
+:100644 100644 86780a52... 1f1dcdd6... M	spec/mpd_processor_spec.js
+
+user:Joey Parrish
+1416441063
+:100644 100644 d3f9fb87... 30d19ba8... M	assets/angel_one.mpd
+
+user:Joey Parrish
+1416442723
+:000000 100644 00000000... d6456956... A	LICENSE.txt
+
+user:Joey Parrish
+1416449387
+:100644 100644 ee4e322b... b089eec3... M	jsdoc.conf.json
+:100644 100644 197687a0... 50fcf75b... M	third_party/jsdoc/templates/default/static/styles/jsdoc-default.css
+:000000 100644 00000000... b63f170a... A	tutorials/intro.html
+:000000 100644 00000000... 3b63cdf3... A	tutorials/intro.json
+:000000 100644 00000000... 05f933e7... A	tutorials/player.html
+:000000 100644 00000000... ae67ec38... A	tutorials/player.json
+:000000 100644 00000000... 518e690e... A	tutorials/sample1.txt
+:000000 100755 00000000... 0ae5d33c... A	tutorials/update_samples.py
+
+user:Joey Parrish
+1416523242
+:100644 100644 88a0ad52... 9dfe9099... M	third_party/jsdoc/templates/default/tmpl/tutorial.tmpl
+:000000 100644 00000000... b375d659... A	tutorials/caveats.html
+:000000 100644 00000000... 4de0e12d... A	tutorials/caveats.json
+:000000 100644 00000000... 0368db3d... A	tutorials/dev.html
+:000000 100644 00000000... f0e86da1... A	tutorials/dev.json
+:100644 100644 05f933e7... abc976ad... M	tutorials/player.html
+:000000 100644 00000000... 1e8ac7d0... A	tutorials/polyfills.html
+:000000 100644 00000000... 38873e80... A	tutorials/polyfills.json
+
+user:Joey Parrish
+1416527780
+:100644 100644 3de2417e... be6f7bf3... M	app.js
+:100644 100644 3bc30003... b307ce99... M	build/lib.sh
+:100644 100644 a27cf797... 0dc5719a... M	lib/player/audio_track.js
+:100644 100644 93333b73... ddc7c856... M	lib/player/stats.js
+:100644 100644 4e15d855... 4c558248... M	lib/player/text_track.js
+:100644 100644 599ac9fe... 5972f943... M	lib/player/video_track.js
+:100644 100644 a10164cb... 9ee863b4... M	lib/polyfill/fullscreen.js
+:100644 100644 fbbafd52... 04dd1e3a... M	lib/polyfill/mediakeys.js
+:100644 100644 c973e8d9... 15cc11b9... M	lib/polyfill/videoplaybackquality.js
+:100644 100644 ea1fb4cc... 35a9a436... M	third_party/jsdoc/templates/default/tmpl/method.tmpl
+:100644 100644 abc976ad... 8a9b95cb... M	tutorials/player.html
+:100644 100644 1e8ac7d0... e7025c0f... M	tutorials/polyfills.html
+:100644 100644 518e690e... 6d20e351... M	tutorials/sample1.txt
+:000000 100644 00000000... 89b6c9e7... A	tutorials/sample2.txt
+:000000 100644 00000000... 4f81485b... A	tutorials/sample3.txt
+:100755 100755 0ae5d33c... 9c6816d3... M	tutorials/update_samples.py
+
+user:Joey Parrish
+1416529624
+:100755 100755 9c6816d3... ca09dcaa... M	tutorials/update_samples.py
+
+user:Joey Parrish
+1416541878
+:100644 100644 54d14e42... 1568670e... M	lib/dash/mpd_processor.js
+
+user:Joey Parrish
+1416543531
+:100644 100644 be6f7bf3... 1b0d11c3... M	app.js
+:100644 100644 1568670e... 7e0b83f2... M	lib/dash/mpd_processor.js
+:100644 100644 06320d5d... b08a74a7... M	lib/player/dash_video_source.js
+:100644 100644 1cbf9441... bd8ba7d8... M	lib/player/drm_scheme_info.js
+:100644 100644 2f610bd1... 8186e2f2... M	lib/player/http_video_source.js
+:100644 100644 ec72f04b... fd789f39... M	lib/player/i_video_source.js
+:100644 100644 dc4aa071... 0c8c5417... M	lib/player/player.js
+
+user:Joey Parrish
+1416548645
+:100644 100644 b08a74a7... ce5c930c... M	lib/player/dash_video_source.js
+:100644 100644 8a9b95cb... 7698a214... M	tutorials/player.html
+:000000 100644 00000000... f316c615... A	tutorials/sample4.txt
+
+user:Joey Parrish
+1416548828
+:100644 100644 b307ce99... 02058568... M	build/lib.sh
+:100644 100644 9ee863b4... 2d6ccaff... M	lib/polyfill/fullscreen.js
+:100644 100644 04dd1e3a... 02e1a7d9... M	lib/polyfill/mediakeys.js
+:100644 100644 15cc11b9... cbb802be... M	lib/polyfill/videoplaybackquality.js
+:100644 100644 c597a208... 18b9685e... M	third_party/jsdoc/lib/jsdoc/tag/dictionary/definitions.js
+:100644 100644 35a9a436... e566554f... M	third_party/jsdoc/templates/default/tmpl/method.tmpl
+
+user:Joey Parrish
+1416587473
+:100644 100644 02058568... 321546b3... M	build/lib.sh
+:100644 100644 1c0618db... 441a6434... M	lib/debug/asserts.js
+:100644 100644 a40381e4... c9bc2fb9... M	lib/debug/log.js
+:100644 100644 40f61446... ccc924c4... M	lib/debug/timer.js
+:100644 100644 0c8c5417... 6f2c18bb... M	lib/player/player.js
+:100644 100644 58d0d4b4... 12e0aaae... M	lib/util/array_utils.js
+:100644 100644 cf793cde... 0478635f... M	lib/util/fake_event.js
+:100644 100644 ddcd20d5... 70f645f0... M	lib/util/language_utils.js
+:100644 100644 517018de... e7a7dea3... M	lib/util/string_utils.js
+:100644 100644 894ee743... 6643ff59... M	lib/util/typed_bind.js
+
+user:Timothy Drews
+1416608732
+:100644 100644 0b5c96aa... 90ae3a8b... M	lib/dash/mpd_parser.js
+:100644 100644 7e0b83f2... b2018d1e... M	lib/dash/mpd_processor.js
+:100644 100644 159ad5b1... ebbea896... M	lib/dash/segment_range.js
+
+user:Joey Parrish
+1416609512
+:000000 100644 00000000... aa2e2ebe... A	tutorials/language.html
+:000000 100644 00000000... a385605b... A	tutorials/language.json
+
+user:Timothy Drews
+1416610323
+:100644 100644 ebbea896... 2fbd802b... M	lib/dash/segment_range.js
+
+user:Joey Parrish
+1416612786
+:100644 100644 6f2c18bb... cce420b5... M	lib/player/player.js
+:100644 100644 7698a214... afff8e8c... M	tutorials/player.html
+:100644 100644 f316c615... b24aa322... M	tutorials/sample4.txt
+:000000 100644 00000000... 3057982f... A	tutorials/sample5.txt
+
+user:Joey Parrish
+1416612824
+:100644 100644 cce420b5... 33c9a475... M	lib/player/player.js
+
+user:Joey Parrish
+1416613112
+:100755 100755 75cee07f... c6bd5e6a... M	build/docs.sh
+:000000 100644 00000000... 54bbfcf3... A	docs/mainpage.md
+:100644 100644 5bb5a820... 0b44f48b... M	third_party/jsdoc/templates/default/publish.js
+
+user:Timothy Drews
+1416944450
+:100644 100644 a71df6a7... cf792d46... M	lib/dash/dash_stream.js
+:100644 100644 d30c09a9... 57c49742... M	lib/dash/isobmff_segment_index_parser.js
+:100644 100644 b2018d1e... f5a31fbc... M	lib/dash/mpd_processor.js
+:100644 100644 5b8c4ce9... c8075167... M	lib/dash/segment_index.js
+:100644 100644 2fbd802b... f7b464d8... M	lib/dash/segment_range.js
+:100644 100644 43feaf17... 65170ad6... M	lib/dash/segment_reference.js
+:100644 100644 9aaba5b7... c70d5326... M	lib/dash/webm_segment_index_parser.js
+:100644 100644 d8f96964... 11391906... M	spec/segment_index_spec.js
+
+user:Joey Parrish
+1416963845
+:000000 100644 00000000... 649a3f79... A	third_party/gjslint/closure_linter-2.3.13/PKG-INFO
+:000000 100644 00000000... 4a21b2de... A	third_party/gjslint/closure_linter-2.3.13/README
+:000000 100755 00000000... 1798c8cf... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/__init__.py
+:000000 100644 00000000... 79c072a0... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/aliaspass.py
+:000000 100755 00000000... f7d87040... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/aliaspass_test.py
+:000000 100755 00000000... 41e52c3d... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/checker.py
+:000000 100755 00000000... 6679ded0... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/checkerbase.py
+:000000 100755 00000000... 03bcf1ca... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/closurizednamespacesinfo.py
+:000000 100755 00000000... 42499419... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/closurizednamespacesinfo_test.py
+:000000 100755 00000000... 57930436... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/common/__init__.py
+:000000 100755 00000000... 4209c235... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/common/error.py
+:000000 100755 00000000... 55844ba6... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/common/erroraccumulator.py
+:000000 100755 00000000... 764d54d8... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/common/errorhandler.py
+:000000 100644 00000000... 149738b5... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/common/erroroutput.py
+:000000 100755 00000000... 8f0532c9... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/common/filetestcase.py
+:000000 100755 00000000... 26d44c59... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/common/htmlutil.py
+:000000 100755 00000000... 07842c7b... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/common/lintrunner.py
+:000000 100755 00000000... 9b4402c6... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/common/matcher.py
+:000000 100755 00000000... cebf17ef... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/common/position.py
+:000000 100755 00000000... 3402bef3... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/common/simplefileflags.py
+:000000 100755 00000000... 9420ea32... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/common/tokenizer.py
+:000000 100755 00000000... 47039987... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/common/tokens.py
+:000000 100644 00000000... 01ec89d0... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/common/tokens_test.py
+:000000 100755 00000000... 1cfc0410... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/ecmalintrules.py
+:000000 100755 00000000... a8657d2f... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/ecmametadatapass.py
+:000000 100755 00000000... 9e2ac01c... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/error_check.py
+:000000 100755 00000000... fb2db503... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/error_fixer.py
+:000000 100644 00000000... 49f449de... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/error_fixer_test.py
+:000000 100644 00000000... ce9fb908... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/errorrecord.py
+:000000 100755 00000000... b1b72aab... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/errorrules.py
+:000000 100644 00000000... cb903785... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/errorrules_test.py
+:000000 100755 00000000... 7bdfecd9... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/errors.py
+:000000 100755 00000000... 1b5905b1... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/fixjsstyle.py
+:000000 100755 00000000... 27b15eca... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/fixjsstyle_test.py
+:000000 100755 00000000... 37f99b48... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/full_test.py
+:000000 100755 00000000... d4ab1aa5... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/gjslint.py
+:000000 100755 00000000... 0abb25b1... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/indentation.py
+:000000 100755 00000000... 0be01ee2... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/javascriptlintrules.py
+:000000 100755 00000000... 1b051d3b... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/javascriptstatetracker.py
+:000000 100644 00000000... 76dabd2c... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/javascriptstatetracker_test.py
+:000000 100755 00000000... a0e9dca8... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/javascripttokenizer.py
+:000000 100755 00000000... f46d4e17... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/javascripttokens.py
+:000000 100755 00000000... c92c13ee... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/not_strict_test.py
+:000000 100755 00000000... 20f0f93d... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/requireprovidesorter.py
+:000000 100644 00000000... fecb6d04... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/requireprovidesorter_test.py
+:000000 100644 00000000... 76718c67... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/runner.py
+:000000 100644 00000000... da5857d3... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/runner_test.py
+:000000 100644 00000000... a612d1a9... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/scopeutil.py
+:000000 100644 00000000... 9bb836e2... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/scopeutil_test.py
+:000000 100644 00000000... 079950f0... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/statetracker.py
+:000000 100755 00000000... 1ec9e0bb... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/statetracker_test.py
+:000000 100755 00000000... 75044e8a... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/strict_test.py
+:000000 100644 00000000... b106ff02... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/testutil.py
+:000000 100755 00000000... 8b5dbe1a... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/tokenutil.py
+:000000 100644 00000000... d5af9fac... A	third_party/gjslint/closure_linter-2.3.13/closure_linter/tokenutil_test.py
+:000000 100755 00000000... 0f024015... A	third_party/gjslint/closure_linter-2.3.13/setup.py
+
+user:Joey Parrish
+1416963858
+:000000 100644 00000000... 887918bd... A	third_party/gjslint/python-gflags-2.0/AUTHORS
+:000000 100644 00000000... d15b0c24... A	third_party/gjslint/python-gflags-2.0/COPYING
+:000000 100644 00000000... 87732a2b... A	third_party/gjslint/python-gflags-2.0/ChangeLog
+:000000 100644 00000000... 17851bfa... A	third_party/gjslint/python-gflags-2.0/MANIFEST.in
+:000000 100644 00000000... 6627c32a... A	third_party/gjslint/python-gflags-2.0/Makefile
+:000000 100644 00000000... 8aaa72bf... A	third_party/gjslint/python-gflags-2.0/NEWS
+:000000 100644 00000000... faab7198... A	third_party/gjslint/python-gflags-2.0/PKG-INFO
+:000000 100644 00000000... 81daa7ab... A	third_party/gjslint/python-gflags-2.0/README
+:000000 100644 00000000... 57becfda... A	third_party/gjslint/python-gflags-2.0/debian/README
+:000000 100644 00000000... 5e6457e2... A	third_party/gjslint/python-gflags-2.0/debian/changelog
+:000000 100644 00000000... 7ed6ff82... A	third_party/gjslint/python-gflags-2.0/debian/compat
+:000000 100644 00000000... 4a9b1594... A	third_party/gjslint/python-gflags-2.0/debian/control
+:000000 100644 00000000... 7d27d62f... A	third_party/gjslint/python-gflags-2.0/debian/copyright
+:000000 100644 00000000... 6f12db50... A	third_party/gjslint/python-gflags-2.0/debian/docs
+:000000 100755 00000000... 0840b5ef... A	third_party/gjslint/python-gflags-2.0/debian/rules
+:000000 100644 00000000... 822256a6... A	third_party/gjslint/python-gflags-2.0/gflags.py
+:000000 100755 00000000... 3a50f9e1... A	third_party/gjslint/python-gflags-2.0/gflags2man.py
+:000000 100755 00000000... d83058d5... A	third_party/gjslint/python-gflags-2.0/gflags_validators.py
+:000000 100644 00000000... faab7198... A	third_party/gjslint/python-gflags-2.0/python_gflags.egg-info/PKG-INFO
+:000000 100644 00000000... e6068dfd... A	third_party/gjslint/python-gflags-2.0/python_gflags.egg-info/SOURCES.txt
+:000000 100644 00000000... 8b137891... A	third_party/gjslint/python-gflags-2.0/python_gflags.egg-info/dependency_links.txt
+:000000 100644 00000000... 93c1fcdc... A	third_party/gjslint/python-gflags-2.0/python_gflags.egg-info/top_level.txt
+:000000 100644 00000000... 861a9f55... A	third_party/gjslint/python-gflags-2.0/setup.cfg
+:000000 100755 00000000... 573db2d4... A	third_party/gjslint/python-gflags-2.0/setup.py
+:000000 100644 00000000... e69de29b... A	third_party/gjslint/python-gflags-2.0/tests/flags_modules_for_testing/__init__.py
+:000000 100755 00000000... 230627f2... A	third_party/gjslint/python-gflags-2.0/tests/flags_modules_for_testing/module_bar.py
+:000000 100755 00000000... 2719c950... A	third_party/gjslint/python-gflags-2.0/tests/flags_modules_for_testing/module_baz.py
+:000000 100755 00000000... 760a37cc... A	third_party/gjslint/python-gflags-2.0/tests/flags_modules_for_testing/module_foo.py
+:000000 100644 00000000... 9ae614ce... A	third_party/gjslint/python-gflags-2.0/tests/gflags_googletest.py
+:000000 100755 00000000... fd78004b... A	third_party/gjslint/python-gflags-2.0/tests/gflags_helpxml_test.py
+:000000 100755 00000000... 8e948bf3... A	third_party/gjslint/python-gflags-2.0/tests/gflags_unittest.py
+:000000 100755 00000000... 460e6d01... A	third_party/gjslint/python-gflags-2.0/tests/gflags_validators_test.py
+
+user:Joey Parrish
+1416963865
+:100644 100644 e7e65d42... fa3de577... M	third_party/SUMMARY.txt
+:000000 100644 00000000... d6456956... A	third_party/gjslint/closure_linter-2.3.13/LICENSE.txt
+:100644 000000 d15b0c24... 00000000... D	third_party/gjslint/python-gflags-2.0/COPYING
+:000000 100644 00000000... d15b0c24... A	third_party/gjslint/python-gflags-2.0/LICENSE.txt
+
+user:Joey Parrish
+1416963869
+:100644 100644 321546b3... 3f8197e7... M	build/lib.sh
+:000000 100755 00000000... cfd8fe7c... A	third_party/gjslint/gjslint
+
+user:Joey Parrish
+1416963872
+:100755 100755 d4ab1aa5... ca4069a8... M	third_party/gjslint/closure_linter-2.3.13/closure_linter/gjslint.py
+
+user:Joey Parrish
+1416963875
+:100755 100755 1cfc0410... 0db4d343... M	third_party/gjslint/closure_linter-2.3.13/closure_linter/ecmalintrules.py
+
+user:Joey Parrish
+1416963877
+:100644 100644 bd5ecfb7... c4493b57... M	lib/util/ewma_bandwidth_estimator.js
+
+user:Joey Parrish
+1416969077
+:100644 100644 f5a31fbc... 99a9cb7b... M	lib/dash/mpd_processor.js
+
+user:Joey Parrish
+1416969311
+:100644 100644 1b0d11c3... 4a02ccb2... M	app.js
+:100644 100644 33c9a475... 50505641... M	lib/player/player.js
+:100644 100644 a6fc57fd... 9b70acca... M	lib/util/event_manager.js
+:100644 100644 8106e058... edfa9f29... M	lib/util/multi_map.js
+
+user:Joey Parrish
+1417051948
+:100644 100644 afff8e8c... 4555833c... M	tutorials/player.html
+
+user:Timothy Drews
+1417554310
+:100644 100644 cf792d46... e1cdda15... M	lib/dash/dash_stream.js
+:100644 100644 57c49742... 19071c59... M	lib/dash/isobmff_segment_index_parser.js
+:100644 100644 99a9cb7b... 3defbd6e... M	lib/dash/mpd_processor.js
+:100644 100644 c8075167... 16e73cea... M	lib/dash/segment_index.js
+:100644 100644 f7b464d8... 3e6dae25... M	lib/dash/segment_range.js
+:100644 100644 65170ad6... 21a467e8... M	lib/dash/segment_reference.js
+:100644 100644 4871a82f... e20b6bc4... M	lib/dash/source_buffer_manager.js
+:100644 100644 c70d5326... 5db08c9e... M	lib/dash/webm_segment_index_parser.js
+:100644 100644 11391906... c6db9b67... M	spec/segment_index_spec.js
+
+user:Joey Parrish
+1417571751
+:100644 100644 015e0082... f3ba1112... M	spec_runner.html
+
+user:Joey Parrish
+1417629453
+:100644 100644 f3ba1112... 8a5d6f14... M	spec_runner.html
+:100644 100644 fa3de577... 92c768e7... M	third_party/SUMMARY.txt
+:100644 000000 ec8baa0a... 00000000... D	third_party/jasmine/lib/jasmine-2.0.1/boot.js
+:100644 000000 c54f72da... 00000000... D	third_party/jasmine/lib/jasmine-2.0.1/console.js
+:100644 000000 9d959032... 00000000... D	third_party/jasmine/lib/jasmine-2.0.1/jasmine-html.js
+:100644 000000 c54ff305... 00000000... D	third_party/jasmine/lib/jasmine-2.0.1/jasmine.css
+:100644 000000 c943db1a... 00000000... D	third_party/jasmine/lib/jasmine-2.0.1/jasmine.js
+:100644 000000 3b84583b... 00000000... D	third_party/jasmine/lib/jasmine-2.0.1/jasmine_favicon.png
+:000000 100644 00000000... 164f068b... A	third_party/jasmine/lib/jasmine-2.1.3/boot.js
+:000000 100644 00000000... a65876e9... A	third_party/jasmine/lib/jasmine-2.1.3/console.js
+:000000 100644 00000000... 898108b7... A	third_party/jasmine/lib/jasmine-2.1.3/jasmine-html.js
+:000000 100644 00000000... 7ae58348... A	third_party/jasmine/lib/jasmine-2.1.3/jasmine.css
+:000000 100644 00000000... 1ccb6409... A	third_party/jasmine/lib/jasmine-2.1.3/jasmine.js
+:000000 100644 00000000... 3b84583b... A	third_party/jasmine/lib/jasmine-2.1.3/jasmine_favicon.png
+
+user:Joey Parrish
+1417629456
+:100644 100644 1ccb6409... 56209b45... M	third_party/jasmine/lib/jasmine-2.1.3/jasmine.js
+
+user:Joey Parrish
+1417630769
+:100644 100644 e1cdda15... f5f71c19... M	lib/dash/dash_stream.js
+
+user:Joey Parrish
+1417630773
+:100644 100644 50505641... eddc4822... M	lib/player/player.js
+
+user:Joey Parrish
+1417630773
+:100644 100644 f5f71c19... c90de269... M	lib/dash/dash_stream.js
+
+user:Joey Parrish
+1417630773
+:100644 100644 90ae3a8b... 535140cd... M	lib/dash/mpd_parser.js
+
+user:Joey Parrish
+1417631782
+:000000 100644 00000000... b829c564... A	spec/player_integration.js
+:100644 100644 f3be258a... c39059cc... M	spec/util.js
+:100644 100644 8a5d6f14... 77809a66... M	spec_runner.html
+
+user:Joey Parrish
+1417631819
+:100644 100644 c90de269... 55a571b0... M	lib/dash/dash_stream.js
+
+user:Joey Parrish
+1417631819
+:100644 100644 e20b6bc4... e796b51e... M	lib/dash/source_buffer_manager.js
+
+user:Joey Parrish
+1417631819
+:100644 100644 b3dea47e... 148f89c5... M	.gitignore
+:000000 100644 00000000... 2240774a... A	docs/reference.html
+:100644 000000 6be8b4ea... 00000000... D	docs/reference/DASH-IF Interoperability Points v2.90.pdf
+:100644 000000 c3ac62ca... 00000000... D	docs/reference/ISO 14496-12 - base media file format - coding of audio-visual objects.pdf
+:100644 000000 34974c3e... 00000000... D	docs/reference/ISO 23009-1 - DASH - Media presentation description and segment formats.pdf
+
+user:Joey Parrish
+1417660619
+:100644 100644 30d19ba8... a397ada0... M	assets/angel_one.mpd
+:100644 100644 bdcde956... f47003c1... M	index.html
+
+user:Joey Parrish
+1417660619
+:100644 100644 8186e2f2... 1bfbf416... M	lib/player/http_video_source.js
+
+user:Joey Parrish
+1417724038
+:100644 100644 55a571b0... 1b82ba23... M	lib/dash/dash_stream.js
+
+user:Joey Parrish
+1417724106
+:100644 100644 b829c564... 2ff6bf71... M	spec/player_integration.js
+:100644 100644 c39059cc... 610a60d4... M	spec/util.js
+
+user:Joey Parrish
+1417724139
+:100644 100644 ce5c930c... 88bc00d9... M	lib/player/dash_video_source.js
+:100644 100644 1bfbf416... 9886d98d... M	lib/player/http_video_source.js
+:100644 100644 eddc4822... 28cc3350... M	lib/player/player.js
+
+user:Joey Parrish
+1417737989
+:100644 100644 5c3368bf... 9e9d1b49... M	externs/mediakeys.js
+:100644 100644 28cc3350... 93c592ef... M	lib/player/player.js
+
+user:Joey Parrish
+1417738163
+:100644 100644 93c592ef... 034d61af... M	lib/player/player.js
+:100644 100644 610a60d4... da7f0076... M	spec/util.js
+
+user:Joey Parrish
+1417811793
+:100644 100644 4a02ccb2... 68605116... M	app.js
+:100644 100644 9e9d1b49... df407ba3... M	externs/mediakeys.js
+:100644 100644 34535e67... e119a2ca... M	externs/prefixed_eme.js
+:000000 100644 00000000... 530bcc4b... A	externs/promise.js
+:100644 100644 f47003c1... eafdc45d... M	index.html
+:100644 100644 3defbd6e... ee262bbb... M	lib/dash/mpd_processor.js
+:100644 100644 88bc00d9... f80de309... M	lib/player/dash_video_source.js
+:100644 100644 bd8ba7d8... ab8e4823... M	lib/player/drm_scheme_info.js
+:100644 100644 034d61af... 0c1f84f8... M	lib/player/player.js
+:100644 100644 02e1a7d9... 8e86aa09... M	lib/polyfill/mediakeys.js
+:000000 100644 00000000... cfd62656... A	lib/polyfill/patchedmediakeys_nop.js
+:000000 100644 00000000... ee5774ab... A	lib/polyfill/patchedmediakeys_v01b.js
+:100644 100644 b917679f... 7e2163d7... M	lib/util/ajax_request.js
+:100644 100644 9b70acca... 90cfe42e... M	lib/util/event_manager.js
+:100644 100644 f405b413... ae1bba19... M	lib/util/license_request.js
+:100644 100644 c2856528... b3d380b8... M	load.js
+
+user:Joey Parrish
+1418060511
+:100644 100644 68605116... 472bd40a... M	app.js
+:100644 100644 eafdc45d... 91e2a026... M	index.html
+:100644 100644 0c1f84f8... edfbed19... M	lib/player/player.js
+:100644 100644 ee5774ab... 8313077d... M	lib/polyfill/patchedmediakeys_v01b.js
+
+user:Joey Parrish
+1418060862
+:100644 100644 4555833c... e5d42d8a... M	tutorials/player.html
+:100644 100644 b24aa322... 10e45f48... M	tutorials/sample4.txt
+:100644 100644 3057982f... 2a131181... M	tutorials/sample5.txt
+
+user:Joey Parrish
+1418078844
+:100644 100644 472bd40a... c70f26e9... M	app.js
+
+user:Joey Parrish
+1418078915
+:100644 100644 1b82ba23... 14fff504... M	lib/dash/dash_stream.js
+
+user:Joey Parrish
+1418078956
+:100644 100644 7e2163d7... bc19240c... M	lib/util/ajax_request.js
+:100644 100644 ae1bba19... 190efd03... M	lib/util/license_request.js
+
+user:Joey Parrish
+1418083180
+:100644 100644 8e86aa09... 94385c3e... M	lib/polyfill/mediakeys.js
+
+user:Joey Parrish
+1418165495
+:100644 100644 a397ada0... c85bf0c1... M	assets/angel_one.mpd
+
+user:Joey Parrish
+1418172443
+:100644 100644 c70f26e9... 8bd819b6... M	app.js
+:100644 100644 ab8e4823... d4ce0cb1... M	lib/player/drm_scheme_info.js
+:100644 100644 edfbed19... 7b8e4cb8... M	lib/player/player.js
+:100644 100644 190efd03... 23cb2b0b... M	lib/util/license_request.js
+:100644 100644 e5d42d8a... 02930a25... M	tutorials/player.html
+:100644 100644 10e45f48... 55caef84... M	tutorials/sample4.txt
+:100644 100644 2a131181... 0aaab3e1... M	tutorials/sample5.txt
+
+user:Joey Parrish
+1418172453
+:100644 100644 731d7526... 869904c1... M	lib/util/range_request.js
+
+user:Joey Parrish
+1418172609
+:100644 100644 91e2a026... 195b3343... M	index.html
+:100644 100644 b3d380b8... 4316c2e5... M	load.js
+
+user:Joey Parrish
+1418249569
+:100644 100644 8bd819b6... fbaba7ee... M	app.js
+:100644 100644 24c1291f... 7e9697c6... M	index.css
+:100644 100644 195b3343... 311f32df... M	index.html
+
+user:Joey Parrish
+1418249637
+:100644 100644 fbaba7ee... 3e6a902a... M	app.js
+:100644 100644 311f32df... 86e9f981... M	index.html
+:100644 100644 ee262bbb... 284956a5... M	lib/dash/mpd_processor.js
+
+user:Joey Parrish
+1418256407
+:100644 100644 3f8197e7... a560b429... M	build/lib.sh
+:100644 100644 fbe9b27d... c7b79950... M	lib/dash/abr_manager.js
+:100644 100644 14fff504... 435ef108... M	lib/dash/dash_stream.js
+:100644 100644 f80de309... 4398e458... M	lib/player/dash_video_source.js
+:100644 100644 7b8e4cb8... 669cd57a... M	lib/player/player.js
+:100644 100644 cebcf4ff... 8419b843... M	lib/util/i_bandwidth_estimator.js
+:100644 100644 c08ad637... 00f47d16... M	third_party/jsdoc/lib/jsdoc/augment.js
+:100644 100644 0b44f48b... 28028d6a... M	third_party/jsdoc/templates/default/publish.js
+
+user:Joey Parrish
+1418261621
+:100644 100644 8313077d... 8235dfd3... M	lib/polyfill/patchedmediakeys_v01b.js
+
+user:Joey Parrish
+1418261685
+:100644 100644 3e6a902a... 875cf871... M	app.js
+:100755 100755 7d3c8aa0... 638ef60d... M	assets/generate_jwkset.py
+:100755 100755 e285129f... 4faaa534... M	build/all.sh
+:100755 100755 98718223... a924414d... M	build/audit_todo.sh
+:100755 100755 f255e8bc... 44518a86... M	build/build.sh
+:100755 100755 38a59524... de9425f4... M	build/check.sh
+:100755 100755 c6bd5e6a... 4dd29da2... M	build/docs.sh
+:100755 100755 90c00e12... c58fde58... M	build/gendeps.sh
+:100644 100644 a560b429... cdfb9326... M	build/lib.sh
+:100755 100755 b4fdcdd2... 14e6e01d... M	build/lint.sh
+:100644 100644 2240774a... 8e45bdce... M	docs/reference.html
+:100644 100644 cc670b00... f0a30b2c... M	externs/fullscreen.js
+:100644 100644 b187383e... 5c73c24d... M	externs/htmltrackelement.js
+:100644 100644 8cc037fd... df0fd524... M	externs/jwk_set.js
+:100644 100644 df407ba3... 120f05b2... M	externs/mediakeys.js
+:100644 100644 e119a2ca... 261631e0... M	externs/prefixed_eme.js
+:100644 100644 530bcc4b... f882d45c... M	externs/promise.js
+:100644 100644 7a15aeab... a34be294... M	externs/videoplaybackquality.js
+:100644 100644 7e9697c6... 49c234c3... M	index.css
+:100644 100644 86e9f981... 8c109037... M	index.html
+:100644 100644 c7b79950... fc3b1f25... M	lib/dash/abr_manager.js
+:100644 100644 435ef108... 15d17104... M	lib/dash/dash_stream.js
+:100644 100644 2b3cae8e... 683abc6f... M	lib/dash/dash_text_stream.js
+:100644 100644 404ec15d... b1de0d36... M	lib/dash/i_dash_stream.js
+:100644 100644 d72a038d... 0613d97a... M	lib/dash/i_segment_index_parser.js
+:100644 100644 19071c59... 7a03048e... M	lib/dash/isobmff_segment_index_parser.js
+:100644 100644 535140cd... a9cd0cae... M	lib/dash/mpd_parser.js
+:100644 100644 284956a5... 60bf2bb4... M	lib/dash/mpd_processor.js
+:100644 100644 53430aa8... fd15d87f... M	lib/dash/mpd_request.js
+:100644 100644 16e73cea... 29f50fab... M	lib/dash/segment_index.js
+:100644 100644 3e6dae25... 5614bd77... M	lib/dash/segment_range.js
+:100644 100644 21a467e8... 2a0480ff... M	lib/dash/segment_reference.js
+:100644 100644 e796b51e... 1e99f449... M	lib/dash/source_buffer_manager.js
+:100644 100644 5db08c9e... 37479342... M	lib/dash/webm_segment_index_parser.js
+:100644 100644 441a6434... b0cc4010... M	lib/debug/asserts.js
+:100644 100644 c9bc2fb9... 7751813c... M	lib/debug/log.js
+:100644 100644 ccc924c4... 6c222efe... M	lib/debug/timer.js
+:100644 100644 0dc5719a... f9d57791... M	lib/player/audio_track.js
+:100644 100644 4398e458... 0910a15d... M	lib/player/dash_video_source.js
+:100644 100644 d4ce0cb1... 71db0740... M	lib/player/drm_scheme_info.js
+:100644 100644 9886d98d... 35f94aa4... M	lib/player/http_video_source.js
+:100644 100644 fd789f39... e3fa7b5b... M	lib/player/i_video_source.js
+:100644 100644 669cd57a... c479a1fb... M	lib/player/player.js
+:100644 100644 ddc7c856... 5b1c57ed... M	lib/player/stats.js
+:100644 100644 4c558248... 2d826dc8... M	lib/player/text_track.js
+:100644 100644 5972f943... 9fa48a70... M	lib/player/video_track.js
+:100644 100644 2d6ccaff... 5f91e4df... M	lib/polyfill/fullscreen.js
+:100644 100644 94385c3e... 1f6752a3... M	lib/polyfill/mediakeys.js
+:100644 100644 cfd62656... f2618289... M	lib/polyfill/patchedmediakeys_nop.js
+:100644 100644 8235dfd3... 473dc430... M	lib/polyfill/patchedmediakeys_v01b.js
+:100644 100644 cbb802be... b2c746b7... M	lib/polyfill/videoplaybackquality.js
+:100644 100644 bc19240c... 44c5c8f4... M	lib/util/ajax_request.js
+:100644 100644 12e0aaae... 2ae650c0... M	lib/util/array_utils.js
+:100644 100644 378e1e1b... 3c568ca4... M	lib/util/data_view_reader.js
+:100644 100644 91e349eb... ba6f47ac... M	lib/util/ebml_parser.js
+:100644 100644 90cfe42e... ac0c67b4... M	lib/util/event_manager.js
+:100644 100644 a498101e... 2f8b2ba0... M	lib/util/ewma.js
+:100644 100644 c4493b57... 34799e3c... M	lib/util/ewma_bandwidth_estimator.js
+:100644 100644 0478635f... 252ed8ad... M	lib/util/fake_event.js
+:100644 100644 8c35e2f2... ca460062... M	lib/util/fake_event_target.js
+:100644 100644 8419b843... d3eb1c01... M	lib/util/i_bandwidth_estimator.js
+:100644 100644 70f645f0... 9a495d9a... M	lib/util/language_utils.js
+:100644 100644 23cb2b0b... edb17b54... M	lib/util/license_request.js
+:100644 100644 edfa9f29... e11005bc... M	lib/util/multi_map.js
+:100644 100644 84c955f0... 8fd47363... M	lib/util/pssh.js
+:100644 100644 822a1b3c... bed13cf3... M	lib/util/public_promise.js
+:100644 100644 869904c1... 417f46ca... M	lib/util/range_request.js
+:100644 100644 e7a7dea3... 9dabaae5... M	lib/util/string_utils.js
+:100644 100644 6643ff59... 32750c4f... M	lib/util/typed_bind.js
+:100644 100644 4316c2e5... e97703f0... M	load.js
+:100644 100644 dead6e7a... c7d5fc77... M	spec/dash_video_source_spec.js
+:100644 100644 45f3382e... 6aa3dcd3... M	spec/data_view_reader_spec.js
+:100644 100644 f572f110... 3e78fae6... M	spec/ebml_parser_spec.js
+:100644 100644 6bd5edda... 29110d6b... M	spec/event_manager_spec.js
+:100644 100644 0ec33234... 1c488ee1... M	spec/fake_event_target.js
+:100644 100644 7597f853... 4ca07927... M	spec/language_utils_spec.js
+:100644 100644 376725be... 80e36a96... M	spec/license_request_spec.js
+:100644 100644 1f1dcdd6... 96e0307f... M	spec/mpd_processor_spec.js
+:100644 100644 7039d80f... c9a111e4... M	spec/mpd_spec.js
+:100644 100644 2ff6bf71... f4c04284... M	spec/player_integration.js
+:100644 100644 c6db9b67... 365fe6f8... M	spec/segment_index_spec.js
+:100644 100644 da7f0076... 037b94b4... M	spec/util.js
+:100644 100644 77809a66... 17cd3ec6... M	spec_runner.html
+:100644 100644 660a3c23... 16647faa... M	support.html
+:100755 100755 cfd8fe7c... da645069... M	third_party/gjslint/gjslint
+:100644 100644 b375d659... af7a06e7... M	tutorials/caveats.html
+:100644 100644 0368db3d... 0dc05958... M	tutorials/dev.html
+:100644 100644 b63f170a... f58054b5... M	tutorials/intro.html
+:100644 100644 aa2e2ebe... 1d74a2d2... M	tutorials/language.html
+:100644 100644 02930a25... 3493a331... M	tutorials/player.html
+:100644 100644 e7025c0f... 34fcd8f3... M	tutorials/polyfills.html
+:100755 100755 ca09dcaa... 1d9fab48... M	tutorials/update_samples.py
+
+user:Joey Parrish
+1418319289
+:100644 100644 fc3b1f25... 7b5e2c42... M	lib/dash/abr_manager.js
+:100644 100644 34799e3c... 0305c897... M	lib/util/ewma_bandwidth_estimator.js
+
+user:Joey Parrish
+1418321057
+:100644 100644 c479a1fb... fbdc4266... M	lib/player/player.js
+
+user:Joey Parrish
+1418321066
+:100644 100644 fbdc4266... 34e72552... M	lib/player/player.js
+
+user:Joey Parrish
+1418584009
+:100644 100644 a34be294... d6df912d... M	externs/videoplaybackquality.js
+
+user:Joey Parrish
+1418585859
+:100644 100644 cdfb9326... 59bb99cc... M	build/lib.sh
+
+user:Joey Parrish
+1418666065
+:100644 100644 71db0740... 8ee2f789... M	lib/player/drm_scheme_info.js
+:100644 100644 037b94b4... f622be6b... M	spec/util.js
+
+user:Joey Parrish
+1418666065
+:100644 100644 148f89c5... 77362d80... M	.gitignore
+:100644 100644 875cf871... 252b57d7... M	app.js
+:100755 100755 44518a86... 9f556248... M	build/build.sh
+:100755 100755 de9425f4... a8d92784... M	build/check.sh
+:100644 100644 e97703f0... 36e4bbd9... M	load.js
+:000000 100644 00000000... 82ae2a3f... A	shaka-player.uncompiled.js
+:100644 100644 0dc05958... 6bae3493... M	tutorials/dev.html
+:100644 100644 3493a331... 2e101dd6... M	tutorials/player.html
+:100644 100644 6d20e351... 7619a781... M	tutorials/sample1.txt
+:100644 100644 4f81485b... d7eeda1c... M	tutorials/sample3.txt
+:100644 100644 55caef84... fd147625... M	tutorials/sample4.txt
+:100644 100644 0aaab3e1... c7bd8925... M	tutorials/sample5.txt
+
+user:Timothy Drews
+1418681045
+:100644 100644 8c109037... 036d9552... M	index.html
+:100644 100644 a9cd0cae... 54e217c4... M	lib/dash/mpd_parser.js
+
+user:Joey Parrish
+1418752407
+:100644 100644 34e72552... 0df0120e... M	lib/player/player.js
+
+user:Joey Parrish
+1418752407
+:100755 100755 9f556248... 8f0ef0be... M	build/build.sh
+
+user:Joey Parrish
+1418752536
+:100644 100644 59bb99cc... 4eac7acd... M	build/lib.sh
+:100644 100644 252ed8ad... b3e5ac7f... M	lib/util/fake_event.js
+:100644 100644 ca460062... 6ccd0779... M	lib/util/fake_event_target.js
+
+user:Joey Parrish
+1418752541
+:100644 100644 15d17104... dae804a6... M	lib/dash/dash_stream.js
+
+user:Joey Parrish
+1418752541
+:100644 100644 0910a15d... 5dd5f009... M	lib/player/dash_video_source.js
+:100644 100644 2e101dd6... 1b81f1fa... M	tutorials/player.html
+:100644 100644 c7bd8925... 5ce252d4... M	tutorials/sample5.txt
+:000000 100644 00000000... f315f581... A	tutorials/sample6.txt
+
+user:Joey Parrish
+1418752541
+:100644 100644 50fcf75b... 5b84b05b... M	third_party/jsdoc/templates/default/static/styles/jsdoc-default.css
+:100644 100644 1b81f1fa... 434e9e7b... M	tutorials/player.html
+:100644 100644 89b6c9e7... d6318391... M	tutorials/sample2.txt
+:100644 100644 d7eeda1c... 09e00bd9... M	tutorials/sample3.txt
+:100755 100755 1d9fab48... 415dd2bd... M	tutorials/update_samples.py
+
+user:Joey Parrish
+1418762916
+:100644 100644 5dd5f009... a7b60dc8... M	lib/player/dash_video_source.js
+
+user:Joey Parrish
+1418762916
+:100644 100644 80e36a96... 4326609a... M	spec/license_request_spec.js
+:100644 100644 c9a111e4... 225eb889... M	spec/mpd_spec.js
+:100644 100644 f4c04284... c9b472d1... M	spec/player_integration.js
+:100644 100644 17cd3ec6... d76baa68... M	spec_runner.html
+
+user:Timothy Drews
+1418859410
+:100644 100644 60bf2bb4... dfb9da6e... M	lib/dash/mpd_processor.js
+
+user:Timothy Drews
+1418859767
+:100644 100644 dae804a6... ab60551a... M	lib/dash/dash_stream.js
+
+user:Vasantha Rao Polipelli
+1418860426
+:100644 100644 c9b472d1... d34e1fe9... M	spec/player_integration.js
+
+user:Joey Parrish
+1418929787
+:100644 100644 32750c4f... 962ed7d6... M	lib/util/typed_bind.js
+
+user:Joey Parrish
+1418939978
+:000000 100644 00000000... 65c4ca6e... A	AUTHORS
+:000000 100644 00000000... e8ee0285... A	CONTRIBUTING.md
+:000000 100644 00000000... dd226b72... A	CONTRIBUTORS
+
+user:Joey Parrish
+1418944683
+:100644 100644 6bae3493... d30597ff... M	tutorials/dev.html
+
+user:Joey Parrish
+1418945025
+:100644 100644 d30597ff... 772942e0... M	tutorials/dev.html
+
+user:Joey Parrish
+1418947709
+:000000 100644 00000000... bdd53e34... A	README.md
+
+user:Timothy Drews
+1419014266
+:100644 100644 ab60551a... d153c677... M	lib/dash/dash_stream.js
+:100644 100644 29f50fab... 929d85ff... M	lib/dash/segment_index.js
+:100644 100644 365fe6f8... b738af9b... M	spec/segment_index_spec.js
+
+user:Joey Parrish
+1419027673
+:000000 100644 00000000... 5b4c4d2f... A	CHANGELOG.md
+
+user:Joey Parrish
+1419964572
+:100644 100644 683abc6f... 47e3ea39... M	lib/dash/dash_text_stream.js
+:100644 100644 d34e1fe9... 7daf1513... M	spec/player_integration.js
+
+user:Joey Parrish
+1419964617
+:100644 100644 7daf1513... 74aed537... M	spec/player_integration.js
+
+user:Joey Parrish
+1419964617
+:100644 100644 0df0120e... b6206ccb... M	lib/player/player.js
+
+user:Joey Parrish
+1419964617
+:100644 100644 a7b60dc8... cccff6b4... M	lib/player/dash_video_source.js
+
+user:Joey Parrish
+1419964617
+:100644 100644 4326609a... 283b22a1... M	spec/license_request_spec.js
+
+user:Joey Parrish
+1420482350
+:100644 100644 96e0307f... 717a66ca... M	spec/mpd_processor_spec.js
+
+user:Joey Parrish
+1420482397
+:100644 100644 4ca07927... 2674db37... M	spec/language_utils_spec.js
+
+user:Joey Parrish
+1420482424
+:100644 100644 c7d5fc77... 25154791... M	spec/dash_video_source_spec.js
+:100644 100644 6aa3dcd3... 4e1c5b12... M	spec/data_view_reader_spec.js
+:100644 100644 3e78fae6... b05aec63... M	spec/ebml_parser_spec.js
+:100644 100644 29110d6b... 8be51710... M	spec/event_manager_spec.js
+:100644 100644 283b22a1... 17de0616... M	spec/license_request_spec.js
+:100644 100644 717a66ca... 3117fa27... M	spec/mpd_processor_spec.js
+:100644 100644 225eb889... 6dbf45bd... M	spec/mpd_spec.js
+:100644 100644 b738af9b... 730b2a4d... M	spec/segment_index_spec.js
+
+user:Joey Parrish
+1420482426
+:100644 000000 25154791... 00000000... D	spec/dash_video_source_spec.js
+:100644 100644 d76baa68... 9e9b240c... M	spec_runner.html
+
+user:Joey Parrish
+1420482426
+:100644 100644 74aed537... d28d3721... M	spec/player_integration.js
+
+user:Joey Parrish
+1420482426
+:100644 100644 473dc430... baf031f5... M	lib/polyfill/patchedmediakeys_v01b.js
+
+user:Joey Parrish
+1420504640
+:100644 100644 d28d3721... f106d36a... M	spec/player_integration.js
+:100644 100644 f622be6b... 91672438... M	spec/util.js
+
+user:Joey Parrish
+1420504645
+:100644 100644 2674db37... 39e47625... M	spec/language_utils_spec.js
+
+user:Joey Parrish
+1420504645
+:100644 100644 4e1c5b12... 92b12cde... M	spec/data_view_reader_spec.js
+:100644 100644 b05aec63... 02fe06c0... M	spec/ebml_parser_spec.js
+:100644 100644 8be51710... 48849436... M	spec/event_manager_spec.js
+:100644 100644 17de0616... 1d067d2c... M	spec/license_request_spec.js
+:100644 100644 3117fa27... c63ed3e4... M	spec/mpd_processor_spec.js
+:100644 100644 6dbf45bd... 75fb282a... M	spec/mpd_spec.js
+:100644 100644 730b2a4d... 29676d1d... M	spec/segment_index_spec.js
+
+user:Joey Parrish
+1420504645
+:100644 100644 4eac7acd... 8e33a387... M	build/lib.sh
+:100755 100755 14e6e01d... 2b902c1a... M	build/lint.sh
+:100644 100644 02fe06c0... ca120f69... M	spec/ebml_parser_spec.js
+:100644 100644 1d067d2c... 77663454... M	spec/license_request_spec.js
+:100644 100644 c63ed3e4... 1b52bbfc... M	spec/mpd_processor_spec.js
+:100644 100644 75fb282a... bd550ed6... M	spec/mpd_spec.js
+:100644 100644 f106d36a... a6dd6dc9... M	spec/player_integration.js
+:100644 100644 29676d1d... be1f9915... M	spec/segment_index_spec.js
+:100644 100644 91672438... 9b6c51c8... M	spec/util.js
+
+user:Joey Parrish
+1420504645
+:100644 100644 be1f9915... 856cc74a... M	spec/segment_index_spec.js
+:100755 100755 6679ded0... d4493947... M	third_party/gjslint/closure_linter-2.3.13/closure_linter/checkerbase.py
+:100755 100755 0db4d343... 42d9e132... M	third_party/gjslint/closure_linter-2.3.13/closure_linter/ecmalintrules.py
+:100755 100755 a8657d2f... 50a4f46f... M	third_party/gjslint/closure_linter-2.3.13/closure_linter/ecmametadatapass.py
+:100644 100644 079950f0... 6b294880... M	third_party/gjslint/closure_linter-2.3.13/closure_linter/statetracker.py
+
+user:Joey Parrish
+1420506182
+:100644 100644 54e217c4... aae35db2... M	lib/dash/mpd_parser.js
+:100644 100644 5614bd77... df8bcfa7... M	lib/dash/segment_range.js
+:100644 100644 2a0480ff... e45a445f... M	lib/dash/segment_reference.js
+
+user:Joey Parrish
+1420573667
+:100644 100644 252b57d7... 763cea3e... M	app.js
+:100644 100644 df0fd524... 23f24398... M	externs/jwk_set.js
+:100644 100644 baf031f5... 794547cb... M	lib/polyfill/patchedmediakeys_v01b.js
+
+user:Joey Parrish
+1420658446
+:100644 100644 b6206ccb... 8e8b976c... M	lib/player/player.js
+:100644 100644 1f6752a3... 24d063bf... M	lib/polyfill/mediakeys.js
+:000000 100644 00000000... c3cb96a2... A	lib/polyfill/patchedmediakeys_istypesupported.js
+:100644 100644 f2618289... 12c8ac93... M	lib/polyfill/patchedmediakeys_nop.js
+:100644 100644 794547cb... ef5f1054... M	lib/polyfill/patchedmediakeys_v01b.js
+
+user:Joey Parrish
+1420658498
+:100644 100644 aae35db2... 0ed86754... M	lib/dash/mpd_parser.js
+
+user:Joey Parrish
+1420658504
+:100644 100644 c3cb96a2... ae69a380... M	lib/polyfill/patchedmediakeys_istypesupported.js
+:100644 100644 12c8ac93... 563bab8a... M	lib/polyfill/patchedmediakeys_nop.js
+:100644 100644 ef5f1054... 11ea39ae... M	lib/polyfill/patchedmediakeys_v01b.js
+
+user:Joey Parrish
+1420658504
+:100644 100644 8e8b976c... 29754a1c... M	lib/player/player.js
+
+user:Joey Parrish
+1420664643
+:100644 100644 9b6c51c8... 1f39a62a... M	spec/util.js
+
+user:Joey Parrish
+1420664643
+:100644 100644 29754a1c... 42552d87... M	lib/player/player.js
+:100644 100644 11ea39ae... 5ba3901e... M	lib/polyfill/patchedmediakeys_v01b.js
+
+user:Joey Parrish
+1420664643
+:100644 100644 a6dd6dc9... 534e2858... M	spec/player_integration.js
+
+user:Joey Parrish
+1420664700
+:100644 100644 5b4c4d2f... 6452f996... M	CHANGELOG.md
+
+user:Joey Parrish
+1421173044
+:100644 100644 1b52bbfc... 0f80e100... M	spec/mpd_processor_spec.js
+
+user:Joey Parrish
+1421181916
+:100644 100644 6452f996... 3d5b22e5... M	CHANGELOG.md
+:100644 100644 dfb9da6e... b5fbe5bf... M	lib/dash/mpd_processor.js
+:100644 100644 0f80e100... bb93308c... M	spec/mpd_processor_spec.js
+
+user:Joey Parrish
+1421184759
+:100644 100644 f58054b5... 6ca276b5... M	tutorials/intro.html
+
+user:Joey Parrish
+1421184759
+:100644 100644 3d5b22e5... d78e255b... M	CHANGELOG.md
+:100644 100644 763cea3e... e7cffd5a... M	app.js
+:000000 100644 00000000... 5f6c1717... A	assets/oops_cenc_pssh.mpd
+:100644 100644 036d9552... e26f585a... M	index.html
+:100644 100644 434e9e7b... a8af6440... M	tutorials/player.html
+:100644 100644 5ce252d4... b146d5e4... M	tutorials/sample5.txt
+:100644 100644 f315f581... 685b225d... M	tutorials/sample6.txt
+
+user:Joey Parrish
+1421273656
+:100644 100644 bdd53e34... 514c8381... M	README.md
+:100644 100644 54bbfcf3... a853456c... M	docs/mainpage.md
+
+user:Joey Parrish
+1421340659
+:100644 000000 d7bbbda9... 00000000... D	assets/poster.license
+:000000 100644 00000000... d7bbbda9... A	assets/poster.license.txt
+
+user:Joey Parrish
+1421350191
+:100644 100644 e7cffd5a... 0921efc9... M	app.js
+
+user:Timothy Drews
+1421869131
+:100644 100644 0ed86754... e0060507... M	lib/dash/mpd_parser.js
+
+user:Timothy Drews
+1421959566
+:100644 100644 0921efc9... 6ad3ea9d... M	app.js
+:100644 100644 c85bf0c1... 74a0a027... M	assets/angel_one.mpd
+:100644 100644 27278f8e... f59e8b13... M	assets/car-20120827-manifest.mpd
+:100644 100644 57fedb99... fa4f7471... M	assets/car_cenc-20120827-manifest.mpd
+:100644 100644 8c52da87... bc10dfd1... M	assets/feelings_audio_only-20130806-manifest.mpd
+:100644 100644 97cd59d3... d02cfa8b... M	assets/feelings_vp9-20130806-manifest.mpd
+:000000 100644 00000000... 0406a744... A	assets/oops_cenc-20121114-signedlicenseurl-manifest.mpd
+:100644 100644 5f6c1717... 1f2d81fe... M	assets/oops_cenc_pssh.mpd
+:100644 100644 e26f585a... fe742cb2... M	index.html
+
+user:Timothy Drews
+1421964251
+:100644 100644 d153c677... 7a1ffab4... M	lib/dash/dash_stream.js
+:100644 100644 47e3ea39... ffc37d54... M	lib/dash/dash_text_stream.js
+:100644 100644 b1de0d36... e8271c7f... M	lib/dash/i_dash_stream.js
+:100644 100644 e0060507... e40d113a... M	lib/dash/mpd_parser.js
+:100644 100644 b5fbe5bf... e0d58348... M	lib/dash/mpd_processor.js
+:000000 100644 00000000... 721d7b73... A	lib/dash/stream_info.js
+:000000 100644 00000000... 560d4e74... A	lib/dash/stream_info_processor.js
+:100644 100644 cccff6b4... e541ba6f... M	lib/player/dash_video_source.js
+:100644 100644 5b1c57ed... 03035494... M	lib/player/stats.js
+:100644 100644 534e2858... aaec41ff... M	spec/player_integration.js
+
+user:Timothy Drews
+1422050960
+:100644 100644 6ad3ea9d... f446e5fb... M	app.js
+:100644 000000 7b5e2c42... 00000000... D	lib/dash/abr_manager.js
+:100644 000000 7a1ffab4... 00000000... D	lib/dash/dash_stream.js
+:100644 000000 ffc37d54... 00000000... D	lib/dash/dash_text_stream.js
+:100644 000000 e8271c7f... 00000000... D	lib/dash/i_dash_stream.js
+:100644 000000 0613d97a... 00000000... D	lib/dash/i_segment_index_parser.js
+:100644 000000 7a03048e... 00000000... D	lib/dash/isobmff_segment_index_parser.js
+:100644 100644 e0d58348... ab3dc116... M	lib/dash/mpd_processor.js
+:100644 000000 929d85ff... 00000000... D	lib/dash/segment_index.js
+:100644 000000 df8bcfa7... 00000000... D	lib/dash/segment_range.js
+:100644 000000 e45a445f... 00000000... D	lib/dash/segment_reference.js
+:100644 000000 1e99f449... 00000000... D	lib/dash/source_buffer_manager.js
+:100644 000000 721d7b73... 00000000... D	lib/dash/stream_info.js
+:100644 000000 560d4e74... 00000000... D	lib/dash/stream_info_processor.js
+:100644 000000 37479342... 00000000... D	lib/dash/webm_segment_index_parser.js
+:000000 100644 00000000... b1967b64... A	lib/media/abr_manager.js
+:000000 100644 00000000... d442e08f... A	lib/media/i_segment_index_parser.js
+:000000 100644 00000000... 7e8a2683... A	lib/media/i_stream.js
+:000000 100644 00000000... 13c5eb3c... A	lib/media/isobmff_segment_index_parser.js
+:000000 100644 00000000... 99205ebb... A	lib/media/segment_index.js
+:000000 100644 00000000... 64de2f1b... A	lib/media/segment_range.js
+:000000 100644 00000000... c8bf6633... A	lib/media/segment_reference.js
+:000000 100644 00000000... 4018a1ca... A	lib/media/source_buffer_manager.js
+:000000 100644 00000000... 8e3def1d... A	lib/media/stream.js
+:000000 100644 00000000... d3a8937d... A	lib/media/stream_info.js
+:000000 100644 00000000... 957763b6... A	lib/media/stream_info_processor.js
+:000000 100644 00000000... 7693ac83... A	lib/media/text_stream.js
+:000000 100644 00000000... 23dde818... A	lib/media/webm_segment_index_parser.js
+:100644 000000 e541ba6f... 00000000... D	lib/player/dash_video_source.js
+:100644 100644 03035494... 5c19bbfb... M	lib/player/stats.js
+:000000 100644 00000000... 3d073c2d... A	lib/player/stream_video_source.js
+:100644 100644 82ae2a3f... c6f26976... M	shaka-player.uncompiled.js
+:100644 100644 aaec41ff... 71e0a1af... M	spec/player_integration.js
+:100644 100644 856cc74a... 748449a0... M	spec/segment_index_spec.js
+
+user:Joey Parrish
+1422056701
+:000000 100644 00000000... fcadb2cf... A	.gitattributes
+
+user:Joey Parrish
+1422056745
+:000000 100644 00000000... 0de6a812... A	tutorials/windows.html
+:000000 100644 00000000... 635ed79b... A	tutorials/windows.json
+
