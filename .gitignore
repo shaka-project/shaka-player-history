@@ -2,3 +2,4 @@ intermediate
 shaka-streamer
 tmp
 .config/
+.cache/
