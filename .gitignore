@@ -2,5 +2,6 @@ intermediate
 shaka-streamer
 tmp
 .bash_history
+.lesshst
 .config/
 .cache/
