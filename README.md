@@ -86,3 +86,17 @@ sudo install -m 0644 /opt/shaka-player-history/shaka-player-history.service /etc
 sudo systemctl daemon-reload
 sudo systemctl start shaka-player-history
 ```
+
+## Checking Service Logs
+
+```sh
+journalctl -axefu shaka-player-history.service
+```
+
+You can see the uptime of the stream after "time=", and if everything is
+healthy and keeping up with real time, you should see status ending with "1x".
+Ex:
+
+```
+frame=112832 fps= 25 q=19.0 q=21.0 q=-0.0 q=-0.0 q=35.0 q=31.0 size= 1092696KiB time=01:15:11.12 bitrate=1984.3kbits/s speed=   1x
+```
