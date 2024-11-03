@@ -28,7 +28,7 @@ The live streams are publicly accessible:
 [Shaka Streamer]: https://github.com/shaka-project/shaka-streamer/
 
 
-## Noto Bene
+## Nota Bene
 
 This is published in the hopes that it is at least interesting, if not useful
 to people outside of the Shaka family.  It's also nice for us to have the
