@@ -30,6 +30,8 @@ video_codecs:
   - h264
   - hw:vp9
   - av1
+channel_layouts:
+  - stereo
 
 # Output in both DASH & HLS, with some custom output file names.
 manifest_format:
