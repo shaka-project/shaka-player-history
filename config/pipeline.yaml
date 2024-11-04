@@ -26,6 +26,8 @@ resolutions:
 audio_codecs:
   - aac
   - opus
+  - ac3
+  - eac3
 video_codecs:
   - h264
   - hw:vp9
