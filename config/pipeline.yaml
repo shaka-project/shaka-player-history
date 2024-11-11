@@ -29,7 +29,7 @@ audio_codecs:
   - ac3
   - eac3
 video_codecs:
-  - h264
+  - hw:h264
   - hw:vp9
   - av1
 channel_layouts:
