@@ -30,7 +30,7 @@ audio_codecs:
   - eac3
   - flac
 video_codecs:
-  - h264
+  - hw:h264
   - hw:vp9
   - av1
 channel_layouts:
