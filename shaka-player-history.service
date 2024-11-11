@@ -26,6 +26,9 @@ Type=simple
 User=shaka-player-history
 ExecStart=/usr/bin/xvfb-run -a /opt/shaka-player-history/launch-streamer.sh
 Restart=always
+# Mixed kill mode helps kill off a misbehaving Gource instance after everything
+# else has been shut down.
+KillMode=mixed
 
 [Install]
 WantedBy=multi-user.target
