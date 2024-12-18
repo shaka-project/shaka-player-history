@@ -27,7 +27,6 @@ audio_codecs:
   - aac
   - opus
   - ac3
-  - eac3
   - flac
 video_codecs:
   - hw:h264
