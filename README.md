@@ -84,6 +84,7 @@ sudo su shaka-player-history -s /bin/bash -c 'gcloud auth application-default lo
 # Install the service
 sudo install -m 0644 /opt/shaka-player-history/shaka-player-history.service /etc/systemd/system/
 sudo systemctl daemon-reload
+sudo systemctl enable shaka-player-history
 sudo systemctl start shaka-player-history
 ```
 
