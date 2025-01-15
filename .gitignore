@@ -5,3 +5,6 @@ tmp
 .lesshst
 .config/
 .cache/
+.python_history
+.vim*
+*.sw*
