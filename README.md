@@ -45,7 +45,7 @@ to visualize another repository:
  - `scripts/update-git.sh` and `sources/pre-release.log` hard-code the repo URL https://github.com/shaka-project/shaka-player and certain pre-historical details about Shaka Player
  - `scripts/rename-aliases.sh` and `sources/user-images` are specific to Shaka Player committers
  - `sources/title.txt` mentions Shaka Player
- - `launch-streamer.sh` hard-codes the output bucket gs://shaka-live-assets/
+ - `launch-streamer.sh` and `tools/clear-bucket.sh` hard-code the output bucket gs://shaka-live-assets/
 
 
 ## Service Installation
@@ -93,14 +93,21 @@ sudo systemctl start shaka-player-history
 
 ## Checking Service Logs
 
+To simply check the raw service logs, use this script:
+
 ```sh
-journalctl -axefu shaka-player-history.service
+./tools/watch-logs.sh
 ```
 
-You can see the uptime of the stream after "time=", and if everything is
-healthy and keeping up with real time, you should see status ending with "1x".
-Ex:
+To get an interpreted view of those logs, use this script:
 
+```sh
+./tools/monitor-encoder-speed.py
 ```
-frame=112832 fps= 25 q=19.0 q=21.0 q=-0.0 q=-0.0 q=35.0 q=31.0 size= 1092696KiB time=01:15:11.12 bitrate=1984.3kbits/s speed=   1x
+
+If everything is healthy and keeping up with real time, the service should
+eventually reach a speed of 1.0x.  Ex:
+
+```json
+{'TS': '2025-01-15T17:52:31.344017', 'SPEED': 1.0}
 ```
