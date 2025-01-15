@@ -35,6 +35,9 @@ to people outside of the Shaka family.  It's also nice for us to have the
 details of this stream formalized and revision-controlled.  That said, if you
 want to fork it or run your own instances, please go ahead!
 
+We assume that the latest version of Shaka Streamer is installed.  Please
+upgrade Streamer when you update this service.
+
 Note that before you install or run this, we have hard-coded certain details
 that you might want to adjust if you fork this to upload to another location or
 to visualize another repository:
