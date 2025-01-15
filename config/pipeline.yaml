@@ -29,8 +29,9 @@ audio_codecs:
   - ac3
   - flac
 video_codecs:
-  - hw:h264
+  - h264
   - hw:vp9
+  - hw:hevc
   - av1
 channel_layouts:
   - stereo
