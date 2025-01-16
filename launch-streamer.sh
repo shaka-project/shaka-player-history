@@ -53,5 +53,5 @@ fi
 $streamer_binary \
   -i config/input.yaml \
   -p config/pipeline.yaml \
-  -c gs://shaka-live-assets/ \
+  -o gs://shaka-live-assets/ \
   --log-configs
