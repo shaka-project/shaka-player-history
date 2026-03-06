@@ -21,5 +21,5 @@ set -x
 
 # Clear the bucket.  Use between stopping and starting the service if you want
 # to wipe out the old content.
-gsutil -m rm -r gs://shaka-live-assets/player-source/
-gsutil -m rm -r gs://shaka-live-assets/player-source.*
+gcloud storage rm --recursive gs://shaka-live-assets/player-source/
+gcloud storage rm --recursive gs://shaka-live-assets/player-source.*
