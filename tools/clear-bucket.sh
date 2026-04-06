@@ -23,3 +23,4 @@ set -x
 # to wipe out the old content.
 gcloud storage rm --recursive gs://shaka-live-assets/player-source/
 gcloud storage rm --recursive gs://shaka-live-assets/player-source.*
+gcloud storage rm --recursive gs://shaka-live-assets/stream_*.m3u8
